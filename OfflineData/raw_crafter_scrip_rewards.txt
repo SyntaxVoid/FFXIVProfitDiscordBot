@@ -1,0 +1,118 @@
+{{vendor table row|item=1 Pastry Cupboard|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Fabric Rack|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Potion Rack|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 On High Orchestrion Roll|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Afterglow Orchestrion Roll|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Harmony Orchestrion Roll|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Sweet Cream Milk|cost=8 White Crafters' Scrip}}
+{{vendor table row|item=1 Stone Cheese|cost=8 White Crafters' Scrip}}
+{{vendor table row|item=1 Loaghtan Fillet|cost=5 White Crafters' Scrip}}
+{{vendor table row|item=1 Heavensegg|cost=8 White Crafters' Scrip}}
+{{vendor table row|item=1 Golden Apple|cost=5 White Crafters' Scrip}}
+{{vendor table row|item=1 Heavenly Kukuru Powder|cost=8 White Crafters' Scrip}}
+{{vendor table row|item=1 Bouillon Cube|cost=4 White Crafters' Scrip}}
+{{vendor table row|item=1 Oriental Soy Sauce|cost=15 White Crafters' Scrip}}
+{{vendor table row|item=1 Oriental Miso Paste|cost=15 White Crafters' Scrip}}
+{{vendor table row|item=1 Solstice Garlic|cost=5 White Crafters' Scrip}}
+{{vendor table row|item=1 Mature Olive Oil|cost=5 White Crafters' Scrip}}
+{{vendor table row|item=1 Carbon Fiber|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=5 Moonbeam Silk|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=3 Skyspring Water|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=5 Dryad Sap|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=5 Odorless Animal Fat|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Powdered Merman Horn|cost=6 White Crafters' Scrip}}
+{{vendor table row|item=5 Purified Coke|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=5 Raziqcoat|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Fieldcraft Demimateria III|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Mastercraft Demimateria|cost=800 White Crafters' Scrip}}
+{{vendor table row|item=1 Wool Top|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Flannel|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 New World Macrame|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Pellitory|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Reunion Cheese|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Koshu Pork|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Dzo Sirloin|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Tea Brick|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Doman Rice|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Secret Recipe Broth|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Crimson Pepper|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Honeydew Honey|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Rooibos Leaves|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Gyr Abanian Alchemic|cost=100 White Crafters' Scrip}}
+{{vendor table row|item=1 Kingcraft Demimateria|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Mozzarella|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Chicken Thigh|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Dzo Tenderloin|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Silkie Egg|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Highland Cabbage|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Robe Lettuce|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Golden Pineapple|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Twilight Apple|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Lingonberry|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Pixieberry|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Kriollo Kukuru Bean|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Cardamom|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Strong Flour|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Platinum Herring|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 King Salmon|cost=10 White Crafters' Scrip}}
+{{vendor table row|item=1 Slithersand|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Sublime Solution|cost=125 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Iron Sand|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Iron Ore|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Uncut Gemstone|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Quartz|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Petrified Log|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Cotton|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Skin|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Seeds|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Aloe|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Coerthan Iron Ore|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Mythrite Sand|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Silver Ore|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Cedar Log|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Fleece|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Gagana Skin|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Specific Sap|cost=30 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Hammerhead Shark|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Silvergrace Ore|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Scheelite|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Raw Celestine|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Pine Log|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Rhea|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Gazelle Hide|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Oddly Delicate Mistletoe|cost=45 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Carpenter's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Blacksmith's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Armorer's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Goldsmith's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Leatherworker's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Weaver's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Alchemist's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Resplendent Culinarian's Material A|cost=50 White Crafters' Scrip}}
+{{vendor table row|item=1 Immutable Solution|cost=125 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Butterbeef|cost=15 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Giant Pumpkin|cost=15 Purple Crafters' Scrip}}
+{{vendor table row|item=1 White Peach|cost=15 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Subtle Cinnamon Sticks|cost=15 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Glass Scallop|cost=15 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia IV|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia V|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia VI|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia VII|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia VIII|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia IX|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia IV|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia V|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia VI|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia VII|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia VIII|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia IX|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia IV|cost=25 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia V|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia VI|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia VII|cost=200 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia VIII|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia IX|cost=250 White Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Competence Materia X|cost=500 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Cunning Materia X|cost=500 Purple Crafters' Scrip}}
+{{vendor table row|item=1 Craftsman's Command Materia X|cost=500 Purple Crafters' Scrip}}

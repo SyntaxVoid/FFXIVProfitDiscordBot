@@ -1,0 +1,3392 @@
+[
+  {
+    "name": "Rarefied Integral Fishing Rod",
+    "level": 90,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Integral Lumber",
+      "Chondrite Ingot",
+      "Ophiotauros Leather",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Chondrite Lapidary Hammer",
+    "level": 90,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Chondrite Ingot",
+      "Star Quartz",
+      "Integral Lumber",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Chondrite Alembic",
+    "level": 90,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Chondrite Ingot",
+      "Star Quartz",
+      "Ophiotauros Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Chondrite Needle",
+    "level": 90,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Star Quartz",
+      "Chondrite Ingot",
+      "AR-Caean Velvet",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Ophiotauroskin Halfgloves",
+    "level": 90,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Ophiotauros Leather",
+      "AR-Caean Velvet",
+      "Chondrite Ingot",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied AR-Caean Velvet Work Cap",
+    "level": 90,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "AR-Caean Velvet",
+      "Ophiotauros Leather",
+      "Star Quartz",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Ophiotauroskin Magitek Codex",
+    "level": 90,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Ophiotauros Leather",
+      "Star Quartz",
+      "Enchanted Manganese Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Sykon Bavarois",
+    "level": 90,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Sykon",
+      "Gelatin",
+      "Ovibos Milk",
+      "Palm Sugar",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      3,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Integral Armillae",
+    "level": 89,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Integral Lumber",
+      "AR-Caean Velvet",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Chondrite Culinary Knife",
+    "level": 89,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Chondrite Ingot",
+      "Integral Lumber",
+      "Annite Whetstone",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Chondrite Sollerets",
+    "level": 89,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Chondrite Ingot",
+      "Ophiotauros Leather",
+      "Manganese Ingot",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Star Quartz Choker",
+    "level": 89,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Star Quartz",
+      "Chondrite Ingot",
+      "Annite Whetstone",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Ophiotauroskin Top",
+    "level": 89,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Ophiotauros Leather",
+      "AR-Caean Velvet",
+      "Kumbhira Leather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied AR-Caean Velvet Bottoms",
+    "level": 89,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "AR-Caean Velvet",
+      "Ophiotauros Leather",
+      "Scarlet Moko Cloth",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Draught",
+    "level": 89,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Ambrosial Water",
+      "Berkanan Sap",
+      "Light Gerbera",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      4,
+      3,
+      3,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Giant Popoto Pancakes",
+    "level": 89,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Giant Popoto",
+      "Golden Honey",
+      "Upland Wheat Flour",
+      "Elder Nutmeg Seeds",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      2,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Ironwood Grinding Wheel",
+    "level": 87,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Ironwood Lumber",
+      "Blue Zircon",
+      "Annite Whetstone",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Manganese Cross-pein Hammer",
+    "level": 87,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Manganese Ingot",
+      "Ironwood Lumber",
+      "Kumbhira Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Manganese Armor of the Behemoth King",
+    "level": 87,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Manganese Ingot",
+      "Kumbhira Leather",
+      "Bismuth Ingot",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Manganese Horn of the Last Unicorn",
+    "level": 87,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Blue Zircon",
+      "Manganese Ingot",
+      "Saiga Leather",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Kumbhiraskin Shoes",
+    "level": 87,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Kumbhira Leather",
+      "Ironwood Lumber",
+      "Saiga Leather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Scarlet Moko Wedge Cap",
+    "level": 87,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Scarlet Moko Cloth",
+      "Kumbhira Leather",
+      "Snow Linen",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Enchanted Manganese Ink",
+    "level": 87,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Manganese Ore",
+      "Petalouda Scales",
+      "Ambrosial Water",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      4,
+      3,
+      3,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Giant Haddock Dip",
+    "level": 87,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Grey Mullet",
+      "Giant Popoto",
+      "Lemonette",
+      "Perilla Oil",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      3,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Rarefied Red Pine Spinning Wheel",
+    "level": 85,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Red Pine Lumber",
+      "Bismuth Ingot",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Bismuth Sledgehammer",
+    "level": 85,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Bismuth Ingot",
+      "Red Pine Lumber",
+      "Starch Glue",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Bismuth Fat Cat Frypan",
+    "level": 85,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Bismuth Ingot",
+      "Red Pine Lumber",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Phrygian Earring",
+    "level": 85,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Phrygian Gold Ingot",
+      "Bismuth Ingot",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Saigaskin Gloves",
+    "level": 85,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Saiga Leather",
+      "Snow Linen",
+      "Luncheon Toad Leather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Snow Linen Doublet",
+    "level": 85,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Snow Linen",
+      "Phrygian Gold Ingot",
+      "Almasty Serge",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Moon Gel",
+    "level": 85,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Mousse Flesh",
+      "Lunatender Blossom",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      4,
+      4,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Happiness Juice",
+    "level": 85,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Carrot of Happiness",
+      "Iceberg Lettuce",
+      "Underground Spring Water",
+      "Palm Sugar",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Palm Bracelet",
+    "level": 83,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Palm Lumber",
+      "Luncheon Toad Leather",
+      "Ametrine",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied High Durium Greatsword",
+    "level": 83,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "High Durium Ingot",
+      "Pewter Ingot",
+      "Gaja Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied High Durium Kite Shield",
+    "level": 83,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "High Durium Ingot",
+      "Luncheon Toad Leather",
+      "Palm Lumber",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Pewter Choker",
+    "level": 83,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Pewter Ingot",
+      "Almasty Serge",
+      "Luncheon Toad Leather",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Luncheon Toadskin Hose",
+    "level": 83,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Luncheon Toad Leather",
+      "Almasty Serge",
+      "Gaja Leather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Almasty Serge Gloves",
+    "level": 83,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Almasty Serge",
+      "Luncheon Toad Leather",
+      "Dark Hempen Cloth",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Luncheon Toadskin Grimoire",
+    "level": 83,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Luncheon Toad Leather",
+      "Enchanted High Durium Ink",
+      "Ametrine",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied King Crab Cake",
+    "level": 83,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Spiny King Crab",
+      "Upland Wheat Flour",
+      "Lorikeet Egg",
+      "Perilla Oil",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Horse Chestnut Kasa",
+    "level": 81,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Horse Chestnut Lumber",
+      "Dark Hempen Cloth",
+      "Dwarven Cotton",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied High Durium Pistol",
+    "level": 81,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "High Durium Nugget",
+      "Ametrine",
+      "Lignum Vitae Lumber",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied High Durium Knuckles",
+    "level": 81,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "High Durium Nugget",
+      "Horse Chestnut Lumber",
+      "Sea Swallow Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied High Durium Milpreves",
+    "level": 81,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Ametrine",
+      "High Durium Nugget",
+      "Dwarven Mythril Nugget",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Gajaskin Shoes",
+    "level": 81,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Gaja Leather",
+      "High Durium Nugget",
+      "Sea Swallow Leather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Darkhempen Hat",
+    "level": 81,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Dark Hempen Cloth",
+      "Gaja Leather",
+      "Dwarven Cotton",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Gajaskin Codex",
+    "level": 81,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Gaja Leather",
+      "Enchanted Dimythrite Ink",
+      "Ametrine",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Archon Loaf",
+    "level": 81,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Dark Rye Flour",
+      "Northern Herring",
+      "Mist Spinach",
+      "Purple Carrot",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      1,
+      1,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Lignum Vitae Grinding Wheel",
+    "level": 80,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Lignum Vitae Lumber",
+      "Dwarven Mythril Ingot",
+      "Tuff Whetstone",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Mythril Hatchet",
+    "level": 80,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Dwarven Mythril Ingot",
+      "Dwarven Mythril Nugget",
+      "Lignum Vitae Lumber",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Mythril Alembic",
+    "level": 80,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Dwarven Mythril Ingot",
+      "Dwarven Mythril Nugget",
+      "Sea Swallow Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Mythril Ring",
+    "level": 80,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Dwarven Mythril Nugget",
+      "Dwarven Cotton",
+      "Iridescent Silk Thread",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Swallowskin Coat",
+    "level": 80,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Sea Swallow Leather",
+      "Dwarven Cotton",
+      "Dwarven Mythril Nugget",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Dwarven Cotton Beret",
+    "level": 80,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Dwarven Cotton",
+      "Sea Swallow Leather",
+      "Dwarven Cotton Thread",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Dwarven Mythril Grimoire",
+    "level": 80,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Enchanted Dimythrite Ink",
+      "Dwarven Mythril Ingot",
+      "Lignum Vitae Lumber",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Lemonade",
+    "level": 80,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Lemonette",
+      "Golden Honey",
+      "Underground Spring Water",
+      "Amber Cloves",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Sandteak Fauchard",
+    "level": 78,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Sandteak Lumber",
+      "Titanbronze Ingot",
+      "Starch Glue",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Titanbronze Pickaxe",
+    "level": 78,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Titanbronze Ingot",
+      "Sandteak Lumber",
+      "Zonure Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Titanbronze Tower Shield",
+    "level": 78,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Titanbronze Ingot",
+      "Titanbronze Nugget",
+      "Hardsilver Nugget",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Titanbronze Headgear",
+    "level": 78,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Titanbronze Nugget",
+      "Zonure Leather",
+      "Hardsilver Nugget",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Zonureskin Fingerless Gloves",
+    "level": 78,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Zonure Leather",
+      "Ovim Wool",
+      "Ramie Thread",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Ovim Wool Tunic",
+    "level": 78,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Ovim Wool",
+      "Zonure Leather",
+      "Hardsilver Nugget",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Syrup",
+    "level": 78,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Underground Spring Water",
+      "Cubus Flesh",
+      "Light Gerbera",
+      "Kudzu Root",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      2,
+      2,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied Espresso con Panna",
+    "level": 78,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Coffee Beans",
+      "Underground Spring Water",
+      "Sour Cream",
+      "Garden Beet Sugar",
+      "Cinnamon",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      7,
+      7
+    ]
+  },
+  {
+    "name": "Rarefied White Ash Earrings",
+    "level": 76,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "White Ash Lumber",
+      "Manasilver Nugget",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Bluespirit Gunblade",
+    "level": 76,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Bluespirit Tile",
+      "Manasilver Nugget",
+      "Star Ruby",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Bluespirit Gauntlets",
+    "level": 76,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Bluespirit Tile",
+      "Atrociraptor Leather",
+      "Rose Gold Nugget",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Manasilver Ear Cuffs",
+    "level": 76,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Manasilver Nugget",
+      "Pixie Cotton",
+      "Twinthread",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Atrociraptorskin Cap",
+    "level": 76,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Atrociraptor Leather",
+      "Manasilver Nugget",
+      "Pixie Floss",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Pixie Cotton Hood",
+    "level": 76,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Pixie Cotton",
+      "Atrociraptor Leather",
+      "Pixie Floss",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Bluespirit Codex",
+    "level": 76,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Enchanted Manasilver Ink",
+      "Bluespirit Tile",
+      "Manasilver Nugget",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Popotoes au Gratin",
+    "level": 76,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Russet Popoto",
+      "Upland Wheat Flour",
+      "Steppe Milk",
+      "Cyclops Onion",
+      "Cream Cheese",
+      "Night Pepper",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Applewood Staff",
+    "level": 74,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Miracle Apple Lumber",
+      "Growth Formula Iota",
+      "Stonegold Nugget",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Deepgold Culinary Knife",
+    "level": 74,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Deepgold Nugget",
+      "White Oak Lumber",
+      "Hard Mudstone Whetstone",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Deepgold Wings",
+    "level": 74,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Deepgold Ingot",
+      "Iridescent Silk",
+      "Wildfowl Feather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Stonegold Orrery",
+    "level": 74,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Stonegold Ingot",
+      "Enchanted Truegold Ink",
+      "Electrum Ingot",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Gliderskin Thighboots",
+    "level": 74,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Green Glider Leather",
+      "Iridescent Silk",
+      "Silk Thread",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Iridescent Top",
+    "level": 74,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Iridescent Silk",
+      "Green Glider Leather",
+      "Star Ruby",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Gliderskin Grimoire",
+    "level": 74,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Enchanted Truegold Ink",
+      "Green Glider Leather",
+      "Deepgold Ingot",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      2,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Spaghetti al Nero",
+    "level": 74,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Squid Ink",
+      "Frantoio Oil",
+      "Vermicelli",
+      "Blood Tomato",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      1,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied White Oak Partisan",
+    "level": 72,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "White Oak Lumber",
+      "Deepgold Nugget",
+      "Smilodon Leather",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Deepgold Anelace",
+    "level": 72,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Deepgold Nugget",
+      "Stonegold Nugget",
+      "Oroshigane Ingot",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Deepgold Cuirass",
+    "level": 72,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Deepgold Nugget",
+      "Stonegold Nugget",
+      "Bright Linen Cloth",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Stonegold Degen",
+    "level": 72,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Stonegold Nugget",
+      "Deepgold Nugget",
+      "Rhodonite",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Smilodonskin Trousers",
+    "level": 72,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Smilodon Leather",
+      "Bright Linen Cloth",
+      "Durium Nugget",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Brightlinen Himation",
+    "level": 72,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Bright Linen Cloth",
+      "Smilodon Leather",
+      "Star Ruby",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Alkahest",
+    "level": 72,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Highland Spring Water",
+      "Hoptrap Leaf",
+      "Nagxian Cudweed",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      3,
+      3,
+      2,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Grilled Rail",
+    "level": 72,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Rail Tenderloin",
+      "Frantoio Oil",
+      "Abalathian Rock Salt",
+      "Garlean Garlic",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      1,
+      1,
+      6,
+      6
+    ]
+  },
+  {
+    "name": "Rarefied Zelkova Spinning Wheel",
+    "level": 70,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Zelkova Lumber",
+      "Tama-hagane Ingot",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Molybdenum Pliers",
+    "level": 70,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Molybdenum Ingot",
+      "Tama-hagane Ingot",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Molybdenum Headgear",
+    "level": 70,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Molybdenum Ingot",
+      "Gazelle Leather",
+      "Twinthread",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Palladium Needle",
+    "level": 70,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Palladium Nugget",
+      "Zelkova Lumber",
+      "Slate Whetstone",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Gazelleskin Armguards",
+    "level": 70,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Gazelle Leather",
+      "Steppe Serge",
+      "Tama-hagane Ingot",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Twinsilk Apron",
+    "level": 70,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Twinsilk",
+      "Twinthread",
+      "Palladium Nugget",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Gazelleskin Codex",
+    "level": 70,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Gazelle Leather",
+      "Zelkova Lumber",
+      "Enchanted Palladium Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Chirashi-zushi",
+    "level": 70,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Koshu Sticky Rice",
+      "Rice Vinegar",
+      "Shiitake Mushroom",
+      "Lotus Root",
+      "Yanxian Tiger Prawn",
+      "Gagana Egg",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Persimmon Bracelets",
+    "level": 68,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Persimmon Lumber",
+      "Pine Lumber",
+      "Varnish",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Doman Steel Patas",
+    "level": 68,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Tama-hagane Ingot",
+      "Persimmon Lumber",
+      "Oroshigane Ingot",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Doman Steel Tabard",
+    "level": 68,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Tama-hagane Ingot",
+      "Steppe Serge",
+      "Tiger Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Durium Rod",
+    "level": 68,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Durium Ingot",
+      "Persimmon Lumber",
+      "Durium Nugget",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Marid Leather Corset",
+    "level": 68,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Marid Leather",
+      "Durium Nugget",
+      "Kudzu Thread",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Serge Hose",
+    "level": 68,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Steppe Serge",
+      "Marid Leather",
+      "Durium Nugget",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Growth Formula",
+    "level": 68,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Windtea Leaves",
+      "Persimmon Tannin",
+      "Perlite",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      3,
+      2,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Persimmon Pudding",
+    "level": 68,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Persimmon",
+      "Gyr Abanian Flour",
+      "Gagana Egg",
+      "Nutmeg",
+      "Beet Sugar",
+      "Steppe Milk",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Pine Cane",
+    "level": 66,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Pine Lumber",
+      "Kudzu Cloth",
+      "Growth Formula Eta",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Doman Iron Uchigatana",
+    "level": 66,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Oroshigane Ingot",
+      "Larch Lumber",
+      "Kudzu Cloth",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Doman Iron Greaves",
+    "level": 66,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Oroshigane Ingot",
+      "Tiger Leather",
+      "Koppranickel Ingot",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Durium Chaplets",
+    "level": 66,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Durium Nugget",
+      "Star Ruby",
+      "Azurite",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Tigerskin Tricorne",
+    "level": 66,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Tiger Leather",
+      "Durium Nugget",
+      "Ruby Cotton Yarn",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Kudzu Hat",
+    "level": 66,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Kudzu Cloth",
+      "Durium Nugget",
+      "Ruby Cotton Yarn",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Tigerskin Grimoire",
+    "level": 66,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Tiger Leather",
+      "Pine Lumber",
+      "Enchanted Durium Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Tempura Platter",
+    "level": 66,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Gyr Abanian Flour",
+      "Gagana Egg",
+      "Cottonseed Oil",
+      "Yanxian Tiger Prawn",
+      "Swordtip",
+      "Lotus Root",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Larch Necklace",
+    "level": 64,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Larch Lumber",
+      "Beech Lumber",
+      "Ruby Cotton Yarn",
+      "Varnish",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied High Steel Claw Hammer",
+    "level": 64,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "High Steel Ingot",
+      "Larch Lumber",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied High Steel Plate Belt",
+    "level": 64,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "High Steel Ingot",
+      "Gagana Leather",
+      "Koppranickel Nugget",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Koppranickel Necklace",
+    "level": 64,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Koppranickel Ingot",
+      "Kyanite",
+      "Ruby Cotton Yarn",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Gyuki Leather Jacket",
+    "level": 64,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Gyuki Leather",
+      "Ruby Cotton Cloth",
+      "Ruby Cotton Yarn",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Ruby Cotton Gilet",
+    "level": 64,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Ruby Cotton Cloth",
+      "Gyuki Leather",
+      "High Steel Ingot",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Reisui",
+    "level": 64,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Gyr Abanian Mineral Water",
+      "Holy Basil",
+      "Dandelion",
+      "Diatomite",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Shorlog",
+    "level": 64,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Dzo Chuck",
+      "Paprika",
+      "Cumin Seeds",
+      "Black Pepper",
+      "Algae Salt",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Beech Composite Bow",
+    "level": 62,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Beech Lumber",
+      "High Steel Nugget",
+      "Crawler Silk",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied High Steel Guillotine",
+    "level": 62,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "High Steel Nugget",
+      "Titanium Nugget",
+      "Gagana Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied High Steel Thermal Alembic",
+    "level": 62,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "High Steel Nugget",
+      "Koppranickel Nugget",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Koppranickel Planisphere",
+    "level": 62,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Koppranickel Nugget",
+      "High Steel Nugget",
+      "Mormorion",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Gaganaskin Shoes",
+    "level": 62,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Gagana Leather",
+      "Bloodhempen Cloth",
+      "Bloodhempen Yarn",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Bloodhempen Skirt",
+    "level": 62,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Bloodhempen Cloth",
+      "Gagana Leather",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Koppranickel Index",
+    "level": 62,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Koppranickel Nugget",
+      "Beech Lumber",
+      "Enchanted Koppranickel Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Baklava",
+    "level": 62,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Gyr Abanian Flour",
+      "Gagana Egg",
+      "Buffalo Milk",
+      "Almonds",
+      "Gridanian Walnut",
+      "Honey",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Birch Signum",
+    "level": 60,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Birch Lumber",
+      "Birch Branch",
+      "Chimerical Felt",
+      "Growth Formula Zeta",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Adamantite Bill",
+    "level": 60,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Adamantite Nugget",
+      "Birch Lumber",
+      "Amphiptere Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Adamantite Scutum",
+    "level": 60,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Adamantite Nugget",
+      "Titanium Ingot",
+      "Amphiptere Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Aurum Regis Earrings",
+    "level": 60,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Aurum Regis Nugget",
+      "Hardsilver Ingot",
+      "Gloaming Coral",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Serpentskin Hat",
+    "level": 60,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Amphiptere Leather",
+      "Hallowed Ramie Cloth",
+      "Rose Gold Nugget",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Chimerical Felt Cyclas",
+    "level": 60,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Chimerical Felt",
+      "Titanium Ingot",
+      "Rose Gold Nugget",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Book of Aurum Regis",
+    "level": 60,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Aurum Regis Nugget",
+      "Hardsilver Ingot",
+      "Enchanted Aurum Regis Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Marron Glace",
+    "level": 60,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Dark Chestnut",
+      "Birch Syrup",
+      "Sour Red",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      3,
+      1,
+      6,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Hallowed Chestnut Ring",
+    "level": 58,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Hallowed Chestnut Lumber",
+      "Varnish",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Titanium Mortar",
+    "level": 58,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Titanium Nugget",
+      "Dark Chestnut Lumber",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Titanium Vambraces",
+    "level": 58,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Titanium Ingot",
+      "Dragon Leather",
+      "Dhalmel Leather",
+      "Hardsilver Ingot",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Hardsilver Pole",
+    "level": 58,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Hardsilver Ingot",
+      "Dragon Leather",
+      "Tiger's Eye",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Dragonskin Ring",
+    "level": 58,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Dragon Leather",
+      "Hardsilver Ingot",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Hallowed Ramie Doublet",
+    "level": 58,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Hallowed Ramie Cloth",
+      "Dhalmel Leather",
+      "Opal",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Max-Potion",
+    "level": 58,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Abalathian Spring Water",
+      "Highland Oregano",
+      "Coneflower",
+      "Cow Bitter",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      2,
+      2,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Peperoncino",
+    "level": 58,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Vermicelli",
+      "Garlean Garlic",
+      "Dragon Pepper",
+      "Olive Oil",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      1,
+      1,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Rarefied Dark Chestnut Rod",
+    "level": 56,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Dark Chestnut Lumber",
+      "Growth Formula Epsilon",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      1,
+      3,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Titanium Creasing Knife",
+    "level": 56,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Titanium Nugget",
+      "Dark Chestnut Lumber",
+      "Wing Glue",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Titanium Frypan",
+    "level": 56,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Titanium Nugget",
+      "Dark Chestnut Lumber",
+      "Titanium Rivets",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Hardsilver Monocle",
+    "level": 56,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Hardsilver Nugget",
+      "Crystal Glass",
+      "Larimar",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Dhalmelskin Coat",
+    "level": 56,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Dhalmel Leather",
+      "Ramie Cloth",
+      "Ramie Thread",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Ramie Turban",
+    "level": 56,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Ramie Cloth",
+      "Rose Gold Nugget",
+      "Star Sapphire",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Dhalmelskin Codex",
+    "level": 56,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Dhalmel Leather",
+      "Hardsilver Nugget",
+      "Enchanted Hardsilver Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Royal Eggs",
+    "level": 56,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Okeanis Egg",
+      "Hollandaise Sauce",
+      "Seema Patrician",
+      "Ishgardian Muffin",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "name": "Rarefied Holy Cedar Spinning Wheel",
+    "level": 54,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Holy Cedar Lumber",
+      "Mythrite Rivets",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Halfheart Saw",
+    "level": 54,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Archaeornis Leather",
+      "Mythrite Rivets",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Bladed Lantern Shield",
+    "level": 54,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Mythrite Ingot",
+      "Mythrite Rivets",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Needle",
+    "level": 54,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Cedar Lumber",
+      "Basilisk Whetstone",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Wyvernskin Mask",
+    "level": 54,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Wyvern Leather",
+      "Mythrite Ingot",
+      "Yeti Fang",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Holy Rainbow Hat",
+    "level": 54,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Holy Rainbow Cloth",
+      "Wyvern Leather",
+      "Rainbow Thread",
+      "Straw",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      1,
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Dissolvent",
+    "level": 54,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Deepeye Tears",
+      "Mist Dill",
+      "Volcanic Rock Salt",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      4,
+      3,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Sauteed Porcini",
+    "level": 54,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Porcini",
+      "Garlean Garlic",
+      "Sagolii Sage",
+      "Fermented Butter",
+      "Volcanic Rock Salt",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Cedar Fishing Rod",
+    "level": 52,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Cedar Lumber",
+      "Mythrite Nugget",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Pugiones",
+    "level": 52,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Archaeornis Leather",
+      "Void Glue",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Hauberk",
+    "level": 52,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Archaeornis Leather",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Bangle",
+    "level": 52,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Tiger's Eye",
+      "Jadeite",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      1,
+      2,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Archaeoskin Cloche",
+    "level": 52,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Archaeornis Leather",
+      "Rainbow Thread",
+      "Chocobo Feather",
+      "Wildfowl Feather",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Rainbow Ribbon",
+    "level": 52,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Rainbow Cloth",
+      "Agate",
+      "Rainbow Thread",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Archaeoskin Codex",
+    "level": 52,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Archaeornis Leather",
+      "Hippogryph Leather",
+      "Enchanted Mythrite Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Sohm Al Tart",
+    "level": 52,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Dark Chestnut",
+      "Sweet Cream",
+      "Highland Flour",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Rarefied Cedar Longbow",
+    "level": 50,
+    "crafting_class": "Carpenter",
+    "ingredient_names": [
+      "Cedar Branch",
+      "Cedar Lumber",
+      "Mythrite Nugget",
+      "Rainbow Thread",
+      "Wind Crystal",
+      "Ice Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Katzbalger",
+    "level": 50,
+    "crafting_class": "Blacksmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Cedar Lumber",
+      "Archaeornis Leather",
+      "Fire Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Sallet",
+    "level": 50,
+    "crafting_class": "Armorer",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Archaeornis Leather",
+      "Electrum Ingot",
+      "Ice Crystal",
+      "Earth Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Mythrite Goggles",
+    "level": 50,
+    "crafting_class": "Goldsmith",
+    "ingredient_names": [
+      "Mythrite Nugget",
+      "Crystal Glass",
+      "Archaeornis Leather",
+      "Wind Crystal",
+      "Fire Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Archaeoskin Belt",
+    "level": 50,
+    "crafting_class": "Leatherworker",
+    "ingredient_names": [
+      "Archaeornis Leather",
+      "Rainbow Thread",
+      "Earth Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      3,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Rainbow Bolero",
+    "level": 50,
+    "crafting_class": "Weaver",
+    "ingredient_names": [
+      "Rainbow Cloth",
+      "Archaeornis Leather",
+      "Electrum Ingot",
+      "Lightning Crystal",
+      "Wind Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Archaeoskin Grimoire",
+    "level": 50,
+    "crafting_class": "Alchemist",
+    "ingredient_names": [
+      "Archaeornis Leather",
+      "Electrum Ingot",
+      "Enchanted Mythrite Ink",
+      "Water Crystal",
+      "Lightning Crystal"
+    ],
+    "amounts": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Rarefied Dhalmel Gratin",
+    "level": 50,
+    "crafting_class": "Culinarian",
+    "ingredient_names": [
+      "Dhalmel Meat",
+      "Cyclops Onion",
+      "Highland Flour",
+      "Popoto",
+      "Sour Cream",
+      "Fire Crystal",
+      "Water Crystal"
+    ],
+    "amounts": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ]
+  }
+]

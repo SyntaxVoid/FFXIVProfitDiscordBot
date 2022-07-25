@@ -1,0 +1,1376 @@
+<table class="item sortable align-center table jquery-tablesorter">
+
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Level
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Venture
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Quantity<br>(Lv90)
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Required<br>ilvl
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Duration<br>(Lv90)
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Cost<br>(Ventures)
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Experience
+</th></tr></thead><tbody>
+<tr>
+<td>1</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Animal_skin_icon1.png" class="image"><img alt="Animal skin icon1.png" src="/mediawiki/images/thumb/3/39/Animal_skin_icon1.png/20px-Animal_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/39/Animal_skin_icon1.png/30px-Animal_skin_icon1.png 1.5x, /mediawiki/images/3/39/Animal_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Animal_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Animal_Skin" title="Animal Skin">Animal Skin</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>500
+</td></tr>
+<tr>
+<td>2</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Animal_sinew_icon1.png" class="image"><img alt="Animal sinew icon1.png" src="/mediawiki/images/thumb/1/1e/Animal_sinew_icon1.png/20px-Animal_sinew_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/1/1e/Animal_sinew_icon1.png/30px-Animal_sinew_icon1.png 1.5x, /mediawiki/images/1/1e/Animal_sinew_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Animal_Sinew">&nbsp;</a></span>&nbsp;<a href="/wiki/Animal_Sinew" title="Animal Sinew">Animal Sinew</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>800
+</td></tr>
+<tr>
+<td>3</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Shriekshroom_icon1.png" class="image"><img alt="Shriekshroom icon1.png" src="/mediawiki/images/thumb/f/f2/Shriekshroom_icon1.png/20px-Shriekshroom_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f2/Shriekshroom_icon1.png/30px-Shriekshroom_icon1.png 1.5x, /mediawiki/images/f/f2/Shriekshroom_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Shriekshroom">&nbsp;</a></span>&nbsp;<a href="/wiki/Shriekshroom" title="Shriekshroom">Shriekshroom</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>800
+</td></tr>
+<tr>
+<td>4</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Honey_icon1.png" class="image"><img alt="Honey icon1.png" src="/mediawiki/images/thumb/f/f5/Honey_icon1.png/20px-Honey_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f5/Honey_icon1.png/30px-Honey_icon1.png 1.5x, /mediawiki/images/f/f5/Honey_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Honey">&nbsp;</a></span>&nbsp;<a href="/wiki/Honey" title="Honey">Honey</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>1,400
+</td></tr>
+<tr>
+<td>5</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ram_horn_icon1.png" class="image"><img alt="Ram horn icon1.png" src="/mediawiki/images/thumb/5/59/Ram_horn_icon1.png/20px-Ram_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/59/Ram_horn_icon1.png/30px-Ram_horn_icon1.png 1.5x, /mediawiki/images/thumb/5/59/Ram_horn_icon1.png/40px-Ram_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ram_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Ram_Horn" title="Ram Horn">Ram Horn</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>1,400
+</td></tr>
+<tr>
+<td>6</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Beastkin_blood_icon1.png" class="image"><img alt="Beastkin blood icon1.png" src="/mediawiki/images/thumb/a/a7/Beastkin_blood_icon1.png/20px-Beastkin_blood_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a7/Beastkin_blood_icon1.png/30px-Beastkin_blood_icon1.png 1.5x, /mediawiki/images/a/a7/Beastkin_blood_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Beastkin_Blood">&nbsp;</a></span>&nbsp;<a href="/wiki/Beastkin_Blood" title="Beastkin Blood">Beastkin Blood</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>3,000
+</td></tr>
+<tr>
+<td>7</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Marmot_meat_icon1.png" class="image"><img alt="Marmot meat icon1.png" src="/mediawiki/images/thumb/d/d7/Marmot_meat_icon1.png/20px-Marmot_meat_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d7/Marmot_meat_icon1.png/30px-Marmot_meat_icon1.png 1.5x, /mediawiki/images/d/d7/Marmot_meat_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Marmot_Meat">&nbsp;</a></span>&nbsp;<a href="/wiki/Marmot_Meat" title="Marmot Meat">Marmot Meat</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>3,000
+</td></tr>
+<tr>
+<td>8</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Animal_hide_icon1.png" class="image"><img alt="Animal hide icon1.png" src="/mediawiki/images/thumb/b/b1/Animal_hide_icon1.png/20px-Animal_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/b1/Animal_hide_icon1.png/30px-Animal_hide_icon1.png 1.5x, /mediawiki/images/b/b1/Animal_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Animal_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Animal_Hide" title="Animal Hide">Animal Hide</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>5,000
+</td></tr>
+<tr>
+<td>9</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Mutton_loin_icon1.png" class="image"><img alt="Mutton loin icon1.png" src="/mediawiki/images/thumb/a/a4/Mutton_loin_icon1.png/20px-Mutton_loin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a4/Mutton_loin_icon1.png/30px-Mutton_loin_icon1.png 1.5x, /mediawiki/images/a/a4/Mutton_loin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Mutton_Loin">&nbsp;</a></span>&nbsp;<a href="/wiki/Mutton_Loin" title="Mutton Loin">Mutton Loin</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>5,000
+</td></tr>
+<tr>
+<td>10</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Beast_sinew_icon1.png" class="image"><img alt="Beast sinew icon1.png" src="/mediawiki/images/thumb/2/25/Beast_sinew_icon1.png/20px-Beast_sinew_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/25/Beast_sinew_icon1.png/30px-Beast_sinew_icon1.png 1.5x, /mediawiki/images/2/25/Beast_sinew_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Beast_Sinew">&nbsp;</a></span>&nbsp;<a href="/wiki/Beast_Sinew" title="Beast Sinew">Beast Sinew</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>7,400
+</td></tr>
+<tr>
+<td>10</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bat_fang_icon1.png" class="image"><img alt="Bat fang icon1.png" src="/mediawiki/images/thumb/0/08/Bat_fang_icon1.png/20px-Bat_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/08/Bat_fang_icon1.png/30px-Bat_fang_icon1.png 1.5x, /mediawiki/images/0/08/Bat_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bat_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Bat_Fang" title="Bat Fang">Bat Fang</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>7,400
+</td></tr>
+<tr>
+<td>10</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Red_landtrap_leaf_icon1.png" class="image"><img alt="Red landtrap leaf icon1.png" src="/mediawiki/images/thumb/0/01/Red_landtrap_leaf_icon1.png/20px-Red_landtrap_leaf_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/01/Red_landtrap_leaf_icon1.png/30px-Red_landtrap_leaf_icon1.png 1.5x, /mediawiki/images/0/01/Red_landtrap_leaf_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Red_Landtrap_Leaf">&nbsp;</a></span>&nbsp;<a href="/wiki/Red_Landtrap_Leaf" title="Red Landtrap Leaf">Red Landtrap Leaf</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>7,400
+</td></tr>
+<tr>
+<td>11</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dodo_tenderloin_icon1.png" class="image"><img alt="Dodo tenderloin icon1.png" src="/mediawiki/images/thumb/4/4a/Dodo_tenderloin_icon1.png/20px-Dodo_tenderloin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4a/Dodo_tenderloin_icon1.png/30px-Dodo_tenderloin_icon1.png 1.5x, /mediawiki/images/4/4a/Dodo_tenderloin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dodo_Tenderloin">&nbsp;</a></span>&nbsp;<a href="/wiki/Dodo_Tenderloin" title="Dodo Tenderloin">Dodo Tenderloin</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>7,400
+</td></tr>
+<tr>
+<td>11</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Jellyfish_cnida_icon1.png" class="image"><img alt="Jellyfish cnida icon1.png" src="/mediawiki/images/thumb/c/c3/Jellyfish_cnida_icon1.png/20px-Jellyfish_cnida_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/c3/Jellyfish_cnida_icon1.png/30px-Jellyfish_cnida_icon1.png 1.5x, /mediawiki/images/c/c3/Jellyfish_cnida_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Jellyfish_Cnida">&nbsp;</a></span>&nbsp;<a href="/wiki/Jellyfish_Cnida" title="Jellyfish Cnida">Jellyfish Cnida</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>7,400
+</td></tr>
+<tr>
+<td>12</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Mole_meat_icon1.png" class="image"><img alt="Mole meat icon1.png" src="/mediawiki/images/thumb/a/af/Mole_meat_icon1.png/20px-Mole_meat_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/af/Mole_meat_icon1.png/30px-Mole_meat_icon1.png 1.5x, /mediawiki/images/a/af/Mole_meat_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Mole_Meat">&nbsp;</a></span>&nbsp;<a href="/wiki/Mole_Meat" title="Mole Meat">Mole Meat</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>10,200
+</td></tr>
+<tr>
+<td>12</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Puk_wing_icon1.png" class="image"><img alt="Puk wing icon1.png" src="/mediawiki/images/thumb/b/bc/Puk_wing_icon1.png/20px-Puk_wing_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/bc/Puk_wing_icon1.png/30px-Puk_wing_icon1.png 1.5x, /mediawiki/images/b/bc/Puk_wing_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Puk_Wing">&nbsp;</a></span>&nbsp;<a href="/wiki/Puk_Wing" title="Puk Wing">Puk Wing</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>10,200
+</td></tr>
+<tr>
+<td>13</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Viscous_secretions_icon1.png" class="image"><img alt="Viscous secretions icon1.png" src="/mediawiki/images/thumb/5/55/Viscous_secretions_icon1.png/20px-Viscous_secretions_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/55/Viscous_secretions_icon1.png/30px-Viscous_secretions_icon1.png 1.5x, /mediawiki/images/5/55/Viscous_secretions_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Viscous_Secretions">&nbsp;</a></span>&nbsp;<a href="/wiki/Viscous_Secretions" title="Viscous Secretions">Viscous Secretions</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>10,200
+</td></tr>
+<tr>
+<td>14</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dodo_egg_icon1.png" class="image"><img alt="Dodo egg icon1.png" src="/mediawiki/images/thumb/4/4d/Dodo_egg_icon1.png/20px-Dodo_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4d/Dodo_egg_icon1.png/30px-Dodo_egg_icon1.png 1.5x, /mediawiki/images/4/4d/Dodo_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dodo_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Dodo_Egg" title="Dodo Egg">Dodo Egg</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>13,100
+</td></tr>
+<tr>
+<td>14</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bat_wing_icon1.png" class="image"><img alt="Bat wing icon1.png" src="/mediawiki/images/thumb/8/8f/Bat_wing_icon1.png/20px-Bat_wing_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/8f/Bat_wing_icon1.png/30px-Bat_wing_icon1.png 1.5x, /mediawiki/images/8/8f/Bat_wing_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bat_Wing">&nbsp;</a></span>&nbsp;<a href="/wiki/Bat_Wing" title="Bat Wing">Bat Wing</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>13,100
+</td></tr>
+<tr>
+<td>15</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Antelope_horn_icon1.png" class="image"><img alt="Antelope horn icon1.png" src="/mediawiki/images/thumb/6/60/Antelope_horn_icon1.png/20px-Antelope_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/60/Antelope_horn_icon1.png/30px-Antelope_horn_icon1.png 1.5x, /mediawiki/images/6/60/Antelope_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Antelope_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Antelope_Horn" title="Antelope Horn">Antelope Horn</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>13,100
+</td></tr>
+<tr>
+<td>15</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Goobbue_fang_icon1.png" class="image"><img alt="Goobbue fang icon1.png" src="/mediawiki/images/thumb/8/82/Goobbue_fang_icon1.png/20px-Goobbue_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/82/Goobbue_fang_icon1.png/30px-Goobbue_fang_icon1.png 1.5x, /mediawiki/images/8/82/Goobbue_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Goobbue_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Goobbue_Fang" title="Goobbue Fang">Goobbue Fang</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>13,100
+</td></tr>
+<tr>
+<td>15</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Yellow_yarzon_leg_icon1.png" class="image"><img alt="Yellow yarzon leg icon1.png" src="/mediawiki/images/thumb/4/46/Yellow_yarzon_leg_icon1.png/20px-Yellow_yarzon_leg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/46/Yellow_yarzon_leg_icon1.png/30px-Yellow_yarzon_leg_icon1.png 1.5x, /mediawiki/images/4/46/Yellow_yarzon_leg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Yellow_Yarzon_Leg">&nbsp;</a></span>&nbsp;<a href="/wiki/Yellow_Yarzon_Leg" title="Yellow Yarzon Leg">Yellow Yarzon Leg</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>13,100
+</td></tr>
+<tr>
+<td>16</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Imp_wing_icon1.png" class="image"><img alt="Imp wing icon1.png" src="/mediawiki/images/thumb/2/26/Imp_wing_icon1.png/20px-Imp_wing_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/26/Imp_wing_icon1.png/30px-Imp_wing_icon1.png 1.5x, /mediawiki/images/2/26/Imp_wing_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Imp_Wing">&nbsp;</a></span>&nbsp;<a href="/wiki/Imp_Wing" title="Imp Wing">Imp Wing</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>17,400
+</td></tr>
+<tr>
+<td>17</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Jellyfish_umbrella_icon1.png" class="image"><img alt="Jellyfish umbrella icon1.png" src="/mediawiki/images/thumb/4/48/Jellyfish_umbrella_icon1.png/20px-Jellyfish_umbrella_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/48/Jellyfish_umbrella_icon1.png/30px-Jellyfish_umbrella_icon1.png 1.5x, /mediawiki/images/4/48/Jellyfish_umbrella_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Jellyfish_Umbrella">&nbsp;</a></span>&nbsp;<a href="/wiki/Jellyfish_Umbrella" title="Jellyfish Umbrella">Jellyfish Umbrella</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>17,400
+</td></tr>
+<tr>
+<td>18</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Aldgoat_skin_icon1.png" class="image"><img alt="Aldgoat skin icon1.png" src="/mediawiki/images/thumb/d/d3/Aldgoat_skin_icon1.png/20px-Aldgoat_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d3/Aldgoat_skin_icon1.png/30px-Aldgoat_skin_icon1.png 1.5x, /mediawiki/images/d/d3/Aldgoat_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Aldgoat_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Aldgoat_Skin" title="Aldgoat Skin">Aldgoat Skin</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>21,900
+</td></tr>
+<tr>
+<td>19</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dodo_feather_icon1.png" class="image"><img alt="Dodo feather icon1.png" src="/mediawiki/images/thumb/3/35/Dodo_feather_icon1.png/20px-Dodo_feather_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/35/Dodo_feather_icon1.png/30px-Dodo_feather_icon1.png 1.5x, /mediawiki/images/3/35/Dodo_feather_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dodo_Feather">&nbsp;</a></span>&nbsp;<a href="/wiki/Dodo_Feather" title="Dodo Feather">Dodo Feather</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>21,900
+</td></tr>
+<tr>
+<td>20</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Green_megalocrab_shell_icon1.png" class="image"><img alt="Green megalocrab shell icon1.png" src="/mediawiki/images/thumb/a/a3/Green_megalocrab_shell_icon1.png/20px-Green_megalocrab_shell_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a3/Green_megalocrab_shell_icon1.png/30px-Green_megalocrab_shell_icon1.png 1.5x, /mediawiki/images/a/a3/Green_megalocrab_shell_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Green_Megalocrab_Shell">&nbsp;</a></span>&nbsp;<a href="/wiki/Green_Megalocrab_Shell" title="Green Megalocrab Shell">Green Megalocrab Shell</a></td>
+<td>15</td>
+<td>-</td>
+<td>40m</td>
+<td>1</td>
+<td>24,900
+</td></tr>
+<tr>
+<td>21</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Antelope_shank_icon1.png" class="image"><img alt="Antelope shank icon1.png" src="/mediawiki/images/thumb/4/4c/Antelope_shank_icon1.png/20px-Antelope_shank_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4c/Antelope_shank_icon1.png/30px-Antelope_shank_icon1.png 1.5x, /mediawiki/images/4/4c/Antelope_shank_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Antelope_Shank">&nbsp;</a></span>&nbsp;<a href="/wiki/Antelope_Shank" title="Antelope Shank">Antelope Shank</a></td>
+<td>15</td>
+<td>1</td>
+<td>40m</td>
+<td>1</td>
+<td>24,900
+</td></tr>
+<tr>
+<td>22</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Megalocrab_leg_icon1.png" class="image"><img alt="Megalocrab leg icon1.png" src="/mediawiki/images/thumb/6/65/Megalocrab_leg_icon1.png/20px-Megalocrab_leg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/65/Megalocrab_leg_icon1.png/30px-Megalocrab_leg_icon1.png 1.5x, /mediawiki/images/6/65/Megalocrab_leg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Megalocrab_Leg">&nbsp;</a></span>&nbsp;<a href="/wiki/Megalocrab_Leg" title="Megalocrab Leg">Megalocrab Leg</a></td>
+<td>15</td>
+<td>2</td>
+<td>40m</td>
+<td>1</td>
+<td>26,100
+</td></tr>
+<tr>
+<td>23</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Acidic_secretions_icon1.png" class="image"><img alt="Acidic secretions icon1.png" src="/mediawiki/images/thumb/7/78/Acidic_secretions_icon1.png/20px-Acidic_secretions_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/78/Acidic_secretions_icon1.png/30px-Acidic_secretions_icon1.png 1.5x, /mediawiki/images/7/78/Acidic_secretions_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Acidic_Secretions">&nbsp;</a></span>&nbsp;<a href="/wiki/Acidic_Secretions" title="Acidic Secretions">Acidic Secretions</a></td>
+<td>15</td>
+<td>3</td>
+<td>40m</td>
+<td>1</td>
+<td>26,100
+</td></tr>
+<tr>
+<td>24</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Diremite_web_icon1.png" class="image"><img alt="Diremite web icon1.png" src="/mediawiki/images/thumb/8/87/Diremite_web_icon1.png/20px-Diremite_web_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/87/Diremite_web_icon1.png/30px-Diremite_web_icon1.png 1.5x, /mediawiki/images/8/87/Diremite_web_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Diremite_Web">&nbsp;</a></span>&nbsp;<a href="/wiki/Diremite_Web" title="Diremite Web">Diremite Web</a></td>
+<td>15</td>
+<td>4</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Aldgoat_chuck_icon1.png" class="image"><img alt="Aldgoat chuck icon1.png" src="/mediawiki/images/thumb/b/b0/Aldgoat_chuck_icon1.png/20px-Aldgoat_chuck_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/b0/Aldgoat_chuck_icon1.png/30px-Aldgoat_chuck_icon1.png 1.5x, /mediawiki/images/b/b0/Aldgoat_chuck_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Aldgoat_Chuck">&nbsp;</a></span>&nbsp;<a href="/wiki/Aldgoat_Chuck" title="Aldgoat Chuck">Aldgoat Chuck</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Diremite_sinew_icon1.png" class="image"><img alt="Diremite sinew icon1.png" src="/mediawiki/images/thumb/c/c8/Diremite_sinew_icon1.png/20px-Diremite_sinew_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/c8/Diremite_sinew_icon1.png/30px-Diremite_sinew_icon1.png 1.5x, /mediawiki/images/c/c8/Diremite_sinew_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Diremite_Sinew">&nbsp;</a></span>&nbsp;<a href="/wiki/Diremite_Sinew" title="Diremite Sinew">Diremite Sinew</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Aldgoat_horn_icon1.png" class="image"><img alt="Aldgoat horn icon1.png" src="/mediawiki/images/thumb/2/25/Aldgoat_horn_icon1.png/20px-Aldgoat_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/25/Aldgoat_horn_icon1.png/30px-Aldgoat_horn_icon1.png 1.5x, /mediawiki/images/2/25/Aldgoat_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Aldgoat_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Aldgoat_Horn" title="Aldgoat Horn">Aldgoat Horn</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Wolf_fang_icon1.png" class="image"><img alt="Wolf fang icon1.png" src="/mediawiki/images/thumb/3/31/Wolf_fang_icon1.png/20px-Wolf_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/31/Wolf_fang_icon1.png/30px-Wolf_fang_icon1.png 1.5x, /mediawiki/images/thumb/3/31/Wolf_fang_icon1.png/40px-Wolf_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Wolf_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Wolf_Fang" title="Wolf Fang">Wolf Fang</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Treant_sap_icon1.png" class="image"><img alt="Treant sap icon1.png" src="/mediawiki/images/thumb/0/02/Treant_sap_icon1.png/20px-Treant_sap_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/02/Treant_sap_icon1.png/30px-Treant_sap_icon1.png 1.5x, /mediawiki/images/0/02/Treant_sap_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Treant_Sap">&nbsp;</a></span>&nbsp;<a href="/wiki/Treant_Sap" title="Treant Sap">Treant Sap</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>25</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Scalekin_blood_icon1.png" class="image"><img alt="Scalekin blood icon1.png" src="/mediawiki/images/thumb/b/b0/Scalekin_blood_icon1.png/20px-Scalekin_blood_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/b0/Scalekin_blood_icon1.png/30px-Scalekin_blood_icon1.png 1.5x, /mediawiki/images/b/b0/Scalekin_blood_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Scalekin_Blood">&nbsp;</a></span>&nbsp;<a href="/wiki/Scalekin_Blood" title="Scalekin Blood">Scalekin Blood</a></td>
+<td>15</td>
+<td>5</td>
+<td>40m</td>
+<td>1</td>
+<td>27,200
+</td></tr>
+<tr>
+<td>26</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gigantoad_skin_icon1.png" class="image"><img alt="Gigantoad skin icon1.png" src="/mediawiki/images/thumb/5/54/Gigantoad_skin_icon1.png/20px-Gigantoad_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/54/Gigantoad_skin_icon1.png/30px-Gigantoad_skin_icon1.png 1.5x, /mediawiki/images/5/54/Gigantoad_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gigantoad_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Gigantoad_Skin" title="Gigantoad Skin">Gigantoad Skin</a></td>
+<td>15</td>
+<td>6</td>
+<td>40m</td>
+<td>1</td>
+<td>32,100
+</td></tr>
+<tr>
+<td>26</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bomb_ash_icon1.png" class="image"><img alt="Bomb ash icon1.png" src="/mediawiki/images/thumb/f/ff/Bomb_ash_icon1.png/20px-Bomb_ash_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/ff/Bomb_ash_icon1.png/30px-Bomb_ash_icon1.png 1.5x, /mediawiki/images/f/ff/Bomb_ash_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bomb_Ash">&nbsp;</a></span>&nbsp;<a href="/wiki/Bomb_Ash" title="Bomb Ash">Bomb Ash</a></td>
+<td>15</td>
+<td>6</td>
+<td>40m</td>
+<td>1</td>
+<td>32,100
+</td></tr>
+<tr>
+<td>27</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Puk_egg_icon1.png" class="image"><img alt="Puk egg icon1.png" src="/mediawiki/images/thumb/d/d5/Puk_egg_icon1.png/20px-Puk_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d5/Puk_egg_icon1.png/30px-Puk_egg_icon1.png 1.5x, /mediawiki/images/d/d5/Puk_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Puk_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Puk_Egg" title="Puk Egg">Puk Egg</a></td>
+<td>15</td>
+<td>7</td>
+<td>40m</td>
+<td>1</td>
+<td>32,100
+</td></tr>
+<tr>
+<td>28</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Night_milk_icon1.png" class="image"><img alt="Night milk icon1.png" src="/mediawiki/images/thumb/5/55/Night_milk_icon1.png/20px-Night_milk_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/55/Night_milk_icon1.png/30px-Night_milk_icon1.png 1.5x, /mediawiki/images/5/55/Night_milk_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Night_Milk">&nbsp;</a></span>&nbsp;<a href="/wiki/Night_Milk" title="Night Milk">Night Milk</a></td>
+<td>15</td>
+<td>8</td>
+<td>40m</td>
+<td>1</td>
+<td>34,500
+</td></tr>
+<tr>
+<td>28</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Orobon_liver_icon1.png" class="image"><img alt="Orobon liver icon1.png" src="/mediawiki/images/thumb/0/0b/Orobon_liver_icon1.png/20px-Orobon_liver_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/0b/Orobon_liver_icon1.png/30px-Orobon_liver_icon1.png 1.5x, /mediawiki/images/0/0b/Orobon_liver_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Orobon_Liver">&nbsp;</a></span>&nbsp;<a href="/wiki/Orobon_Liver" title="Orobon Liver">Orobon Liver</a></td>
+<td>15</td>
+<td>8</td>
+<td>40m</td>
+<td>1</td>
+<td>34,500
+</td></tr>
+<tr>
+<td>29</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Blue_yarzon_leg_icon1.png" class="image"><img alt="Blue yarzon leg icon1.png" src="/mediawiki/images/thumb/9/94/Blue_yarzon_leg_icon1.png/20px-Blue_yarzon_leg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/94/Blue_yarzon_leg_icon1.png/30px-Blue_yarzon_leg_icon1.png 1.5x, /mediawiki/images/9/94/Blue_yarzon_leg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Blue_Yarzon_Leg">&nbsp;</a></span>&nbsp;<a href="/wiki/Blue_Yarzon_Leg" title="Blue Yarzon Leg">Blue Yarzon Leg</a></td>
+<td>15</td>
+<td>9</td>
+<td>40m</td>
+<td>1</td>
+<td>34,500
+</td></tr>
+<tr>
+<td>29</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Cactuar_needle_icon1.png" class="image"><img alt="Cactuar needle icon1.png" src="/mediawiki/images/thumb/6/6f/Cactuar_needle_icon1.png/20px-Cactuar_needle_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/6f/Cactuar_needle_icon1.png/30px-Cactuar_needle_icon1.png 1.5x, /mediawiki/images/6/6f/Cactuar_needle_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Cactuar_Needle">&nbsp;</a></span>&nbsp;<a href="/wiki/Cactuar_Needle" title="Cactuar Needle">Cactuar Needle</a></td>
+<td>15</td>
+<td>9</td>
+<td>40m</td>
+<td>1</td>
+<td>34,500
+</td></tr>
+<tr>
+<td>30</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Sandworm_fang_icon1.png" class="image"><img alt="Sandworm fang icon1.png" src="/mediawiki/images/thumb/7/7d/Sandworm_fang_icon1.png/20px-Sandworm_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/7d/Sandworm_fang_icon1.png/30px-Sandworm_fang_icon1.png 1.5x, /mediawiki/images/7/7d/Sandworm_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Sandworm_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Sandworm_Fang" title="Sandworm Fang">Sandworm Fang</a></td>
+<td>15</td>
+<td>10</td>
+<td>40m</td>
+<td>1</td>
+<td>35,200
+</td></tr>
+<tr>
+<td>30</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Blue_landtrap_leaf_icon1.png" class="image"><img alt="Blue landtrap leaf icon1.png" src="/mediawiki/images/thumb/5/59/Blue_landtrap_leaf_icon1.png/20px-Blue_landtrap_leaf_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/59/Blue_landtrap_leaf_icon1.png/30px-Blue_landtrap_leaf_icon1.png 1.5x, /mediawiki/images/5/59/Blue_landtrap_leaf_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Blue_Landtrap_Leaf">&nbsp;</a></span>&nbsp;<a href="/wiki/Blue_Landtrap_Leaf" title="Blue Landtrap Leaf">Blue Landtrap Leaf</a></td>
+<td>15</td>
+<td>10</td>
+<td>40m</td>
+<td>1</td>
+<td>35,200
+</td></tr>
+<tr>
+<td>30</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Morbol_vine_icon1.png" class="image"><img alt="Morbol vine icon1.png" src="/mediawiki/images/thumb/8/81/Morbol_vine_icon1.png/20px-Morbol_vine_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/81/Morbol_vine_icon1.png/30px-Morbol_vine_icon1.png 1.5x, /mediawiki/images/8/81/Morbol_vine_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Morbol_Vine">&nbsp;</a></span>&nbsp;<a href="/wiki/Morbol_Vine" title="Morbol Vine">Morbol Vine</a></td>
+<td>15</td>
+<td>10</td>
+<td>40m</td>
+<td>1</td>
+<td>35,200
+</td></tr>
+<tr>
+<td>31</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Formic_acid_icon1.png" class="image"><img alt="Formic acid icon1.png" src="/mediawiki/images/thumb/2/2b/Formic_acid_icon1.png/20px-Formic_acid_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/2b/Formic_acid_icon1.png/30px-Formic_acid_icon1.png 1.5x, /mediawiki/images/2/2b/Formic_acid_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Formic_Acid">&nbsp;</a></span>&nbsp;<a href="/wiki/Formic_Acid" title="Formic Acid">Formic Acid</a></td>
+<td>15</td>
+<td>11</td>
+<td>40m</td>
+<td>1</td>
+<td>35,200
+</td></tr>
+<tr>
+<td>32</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Raptor_shank_icon1.png" class="image"><img alt="Raptor shank icon1.png" src="/mediawiki/images/thumb/6/69/Raptor_shank_icon1.png/20px-Raptor_shank_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/69/Raptor_shank_icon1.png/30px-Raptor_shank_icon1.png 1.5x, /mediawiki/images/6/69/Raptor_shank_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Raptor_Shank">&nbsp;</a></span>&nbsp;<a href="/wiki/Raptor_Shank" title="Raptor Shank">Raptor Shank</a></td>
+<td>15</td>
+<td>12</td>
+<td>40m</td>
+<td>1</td>
+<td>38,600
+</td></tr>
+<tr>
+<td>32</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Hippogryph_sinew_icon1.png" class="image"><img alt="Hippogryph sinew icon1.png" src="/mediawiki/images/thumb/c/c3/Hippogryph_sinew_icon1.png/20px-Hippogryph_sinew_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/c3/Hippogryph_sinew_icon1.png/30px-Hippogryph_sinew_icon1.png 1.5x, /mediawiki/images/c/c3/Hippogryph_sinew_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Hippogryph_Sinew">&nbsp;</a></span>&nbsp;<a href="/wiki/Hippogryph_Sinew" title="Hippogryph Sinew">Hippogryph Sinew</a></td>
+<td>15</td>
+<td>12</td>
+<td>40m</td>
+<td>1</td>
+<td>38,600
+</td></tr>
+<tr>
+<td>33</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Boar_hide_icon1.png" class="image"><img alt="Boar hide icon1.png" src="/mediawiki/images/thumb/d/da/Boar_hide_icon1.png/20px-Boar_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/da/Boar_hide_icon1.png/30px-Boar_hide_icon1.png 1.5x, /mediawiki/images/d/da/Boar_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Boar_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Boar_Hide" title="Boar Hide">Boar Hide</a></td>
+<td>15</td>
+<td>13</td>
+<td>40m</td>
+<td>1</td>
+<td>38,600
+</td></tr>
+<tr>
+<td>34</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Peiste_skin_icon1.png" class="image"><img alt="Peiste skin icon1.png" src="/mediawiki/images/thumb/2/2f/Peiste_skin_icon1.png/20px-Peiste_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/2f/Peiste_skin_icon1.png/30px-Peiste_skin_icon1.png 1.5x, /mediawiki/images/2/2f/Peiste_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Peiste_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Peiste_Skin" title="Peiste Skin">Peiste Skin</a></td>
+<td>15</td>
+<td>14</td>
+<td>40m</td>
+<td>1</td>
+<td>40,800
+</td></tr>
+<tr>
+<td>35</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Fleece_icon1.png" class="image"><img alt="Fleece icon1.png" src="/mediawiki/images/thumb/a/a9/Fleece_icon1.png/20px-Fleece_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a9/Fleece_icon1.png/30px-Fleece_icon1.png 1.5x, /mediawiki/images/a/a9/Fleece_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Fleece">&nbsp;</a></span>&nbsp;<a href="/wiki/Fleece" title="Fleece">Fleece</a></td>
+<td>15</td>
+<td>15</td>
+<td>40m</td>
+<td>1</td>
+<td>40,800
+</td></tr>
+<tr>
+<td>36</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Spoken_blood_icon1.png" class="image"><img alt="Spoken blood icon1.png" src="/mediawiki/images/thumb/4/49/Spoken_blood_icon1.png/20px-Spoken_blood_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/49/Spoken_blood_icon1.png/30px-Spoken_blood_icon1.png 1.5x, /mediawiki/images/4/49/Spoken_blood_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Spoken_Blood">&nbsp;</a></span>&nbsp;<a href="/wiki/Spoken_Blood" title="Spoken Blood">Spoken Blood</a></td>
+<td>15</td>
+<td>16</td>
+<td>40m</td>
+<td>1</td>
+<td>44,800
+</td></tr>
+<tr>
+<td>37</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Karakul_skin_icon1.png" class="image"><img alt="Karakul skin icon1.png" src="/mediawiki/images/thumb/a/a1/Karakul_skin_icon1.png/20px-Karakul_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a1/Karakul_skin_icon1.png/30px-Karakul_skin_icon1.png 1.5x, /mediawiki/images/a/a1/Karakul_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Karakul_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Karakul_Skin" title="Karakul Skin">Karakul Skin</a></td>
+<td>15</td>
+<td>17</td>
+<td>40m</td>
+<td>1</td>
+<td>44,800
+</td></tr>
+<tr>
+<td>38</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Grenade_ash_icon1.png" class="image"><img alt="Grenade ash icon1.png" src="/mediawiki/images/thumb/b/ba/Grenade_ash_icon1.png/20px-Grenade_ash_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/ba/Grenade_ash_icon1.png/30px-Grenade_ash_icon1.png 1.5x, /mediawiki/images/b/ba/Grenade_ash_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Grenade_Ash">&nbsp;</a></span>&nbsp;<a href="/wiki/Grenade_Ash" title="Grenade Ash">Grenade Ash</a></td>
+<td>15</td>
+<td>18</td>
+<td>40m</td>
+<td>1</td>
+<td>49,000
+</td></tr>
+<tr>
+<td>39</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Raptor_sinew_icon1.png" class="image"><img alt="Raptor sinew icon1.png" src="/mediawiki/images/thumb/9/9b/Raptor_sinew_icon1.png/20px-Raptor_sinew_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/9b/Raptor_sinew_icon1.png/30px-Raptor_sinew_icon1.png 1.5x, /mediawiki/images/9/9b/Raptor_sinew_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Raptor_Sinew">&nbsp;</a></span>&nbsp;<a href="/wiki/Raptor_Sinew" title="Raptor Sinew">Raptor Sinew</a></td>
+<td>15</td>
+<td>19</td>
+<td>40m</td>
+<td>1</td>
+<td>49,000
+</td></tr>
+<tr>
+<td>40</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ochu_vine_icon1.png" class="image"><img alt="Ochu vine icon1.png" src="/mediawiki/images/thumb/4/4d/Ochu_vine_icon1.png/20px-Ochu_vine_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4d/Ochu_vine_icon1.png/30px-Ochu_vine_icon1.png 1.5x, /mediawiki/images/4/4d/Ochu_vine_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ochu_Vine">&nbsp;</a></span>&nbsp;<a href="/wiki/Ochu_Vine" title="Ochu Vine">Ochu Vine</a></td>
+<td>15</td>
+<td>20</td>
+<td>40m</td>
+<td>1</td>
+<td>52,600
+</td></tr>
+<tr>
+<td>41</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Pudding_flesh_icon1.png" class="image"><img alt="Pudding flesh icon1.png" src="/mediawiki/images/thumb/e/e3/Pudding_flesh_icon1.png/20px-Pudding_flesh_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/e3/Pudding_flesh_icon1.png/30px-Pudding_flesh_icon1.png 1.5x, /mediawiki/images/e/e3/Pudding_flesh_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Pudding_Flesh">&nbsp;</a></span>&nbsp;<a href="/wiki/Pudding_Flesh" title="Pudding Flesh">Pudding Flesh</a></td>
+<td>15</td>
+<td>21</td>
+<td>40m</td>
+<td>1</td>
+<td>52,600
+</td></tr>
+<tr>
+<td>42</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Basilisk_egg_icon1.png" class="image"><img alt="Basilisk egg icon1.png" src="/mediawiki/images/thumb/7/74/Basilisk_egg_icon1.png/20px-Basilisk_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/74/Basilisk_egg_icon1.png/30px-Basilisk_egg_icon1.png 1.5x, /mediawiki/images/7/74/Basilisk_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Basilisk_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Basilisk_Egg" title="Basilisk Egg">Basilisk Egg</a></td>
+<td>15</td>
+<td>22</td>
+<td>40m</td>
+<td>1</td>
+<td>54,200
+</td></tr>
+<tr>
+<td>43</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Buffalo_sirloin_icon1.png" class="image"><img alt="Buffalo sirloin icon1.png" src="/mediawiki/images/thumb/1/17/Buffalo_sirloin_icon1.png/20px-Buffalo_sirloin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/1/17/Buffalo_sirloin_icon1.png/30px-Buffalo_sirloin_icon1.png 1.5x, /mediawiki/images/1/17/Buffalo_sirloin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Buffalo_Sirloin">&nbsp;</a></span>&nbsp;<a href="/wiki/Buffalo_Sirloin" title="Buffalo Sirloin">Buffalo Sirloin</a></td>
+<td>15</td>
+<td>23</td>
+<td>40m</td>
+<td>1</td>
+<td>54,200
+</td></tr>
+<tr>
+<td>44</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Apkallu_egg_icon1.png" class="image"><img alt="Apkallu egg icon1.png" src="/mediawiki/images/thumb/f/fc/Apkallu_egg_icon1.png/20px-Apkallu_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/fc/Apkallu_egg_icon1.png/30px-Apkallu_egg_icon1.png 1.5x, /mediawiki/images/f/fc/Apkallu_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Apkallu_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Apkallu_Egg" title="Apkallu Egg">Apkallu Egg</a></td>
+<td>15</td>
+<td>24</td>
+<td>40m</td>
+<td>1</td>
+<td>55,700
+</td></tr>
+<tr>
+<td>45</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Apkallu_down_icon1.png" class="image"><img alt="Apkallu down icon1.png" src="/mediawiki/images/thumb/9/97/Apkallu_down_icon1.png/20px-Apkallu_down_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/97/Apkallu_down_icon1.png/30px-Apkallu_down_icon1.png 1.5x, /mediawiki/images/9/97/Apkallu_down_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Apkallu_Down">&nbsp;</a></span>&nbsp;<a href="/wiki/Apkallu_Down" title="Apkallu Down">Apkallu Down</a></td>
+<td>15</td>
+<td>25</td>
+<td>40m</td>
+<td>1</td>
+<td>55,700
+</td></tr>
+<tr>
+<td>46</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ahriman_wing_icon1.png" class="image"><img alt="Ahriman wing icon1.png" src="/mediawiki/images/thumb/8/82/Ahriman_wing_icon1.png/20px-Ahriman_wing_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/82/Ahriman_wing_icon1.png/30px-Ahriman_wing_icon1.png 1.5x, /mediawiki/images/8/82/Ahriman_wing_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ahriman_Wing">&nbsp;</a></span>&nbsp;<a href="/wiki/Ahriman_Wing" title="Ahriman Wing">Ahriman Wing</a></td>
+<td>15</td>
+<td>26</td>
+<td>40m</td>
+<td>1</td>
+<td>61,900
+</td></tr>
+<tr>
+<td>47</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Eft_tail_icon1.png" class="image"><img alt="Eft tail icon1.png" src="/mediawiki/images/thumb/2/27/Eft_tail_icon1.png/20px-Eft_tail_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/27/Eft_tail_icon1.png/30px-Eft_tail_icon1.png 1.5x, /mediawiki/images/2/27/Eft_tail_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Eft_Tail">&nbsp;</a></span>&nbsp;<a href="/wiki/Eft_Tail" title="Eft Tail">Eft Tail</a></td>
+<td>15</td>
+<td>27</td>
+<td>40m</td>
+<td>1</td>
+<td>61,900
+</td></tr>
+<tr>
+<td>48</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Raptor_skin_icon1.png" class="image"><img alt="Raptor skin icon1.png" src="/mediawiki/images/thumb/0/01/Raptor_skin_icon1.png/20px-Raptor_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/01/Raptor_skin_icon1.png/30px-Raptor_skin_icon1.png 1.5x, /mediawiki/images/0/01/Raptor_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Raptor_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Raptor_Skin" title="Raptor Skin">Raptor Skin</a></td>
+<td>15</td>
+<td>28</td>
+<td>40m</td>
+<td>1</td>
+<td>66,400
+</td></tr>
+<tr>
+<td>49</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Snurble_tufts_icon1.png" class="image"><img alt="Snurble tufts icon1.png" src="/mediawiki/images/thumb/5/53/Snurble_tufts_icon1.png/20px-Snurble_tufts_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/53/Snurble_tufts_icon1.png/30px-Snurble_tufts_icon1.png 1.5x, /mediawiki/images/5/53/Snurble_tufts_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Snurble_Tufts">&nbsp;</a></span>&nbsp;<a href="/wiki/Snurble_Tufts" title="Snurble Tufts">Snurble Tufts</a></td>
+<td>15</td>
+<td>29</td>
+<td>40m</td>
+<td>1</td>
+<td>66,400
+</td></tr>
+<tr>
+<td>49</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ogre_horn_icon1.png" class="image"><img alt="Ogre horn icon1.png" src="/mediawiki/images/thumb/0/07/Ogre_horn_icon1.png/20px-Ogre_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/07/Ogre_horn_icon1.png/30px-Ogre_horn_icon1.png 1.5x, /mediawiki/images/0/07/Ogre_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ogre_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Ogre_Horn" title="Ogre Horn">Ogre Horn</a></td>
+<td>15</td>
+<td>29</td>
+<td>40m</td>
+<td>1</td>
+<td>66,400
+</td></tr>
+<tr>
+<td>51</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Yak_milk_icon1.png" class="image"><img alt="Yak milk icon1.png" src="/mediawiki/images/thumb/9/92/Yak_milk_icon1.png/20px-Yak_milk_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/92/Yak_milk_icon1.png/30px-Yak_milk_icon1.png 1.5x, /mediawiki/images/9/92/Yak_milk_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Yak_Milk">&nbsp;</a></span>&nbsp;<a href="/wiki/Yak_Milk" title="Yak Milk">Yak Milk</a></td>
+<td>15</td>
+<td>100</td>
+<td>40m</td>
+<td>1</td>
+<td>122,000
+</td></tr>
+<tr>
+<td>51</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gastornis_Egg.png" class="image"><img alt="Gastornis Egg.png" src="/mediawiki/images/thumb/6/6b/Gastornis_Egg.png/20px-Gastornis_Egg.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/6b/Gastornis_Egg.png/30px-Gastornis_Egg.png 1.5x, /mediawiki/images/6/6b/Gastornis_Egg.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gastornis_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Gastornis_Egg" title="Gastornis Egg">Gastornis Egg</a></td>
+<td>15</td>
+<td>100</td>
+<td>40m</td>
+<td>1</td>
+<td>122,000
+</td></tr>
+<tr>
+<td>51</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Archaeornis_Skin.png" class="image"><img alt="Archaeornis Skin.png" src="/mediawiki/images/thumb/2/25/Archaeornis_Skin.png/20px-Archaeornis_Skin.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/25/Archaeornis_Skin.png/30px-Archaeornis_Skin.png 1.5x, /mediawiki/images/2/25/Archaeornis_Skin.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Archaeornis_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Archaeornis_Skin" title="Archaeornis Skin">Archaeornis Skin</a></td>
+<td>15</td>
+<td>100</td>
+<td>40m</td>
+<td>1</td>
+<td>122,000
+</td></tr>
+<tr>
+<td>51</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Icetrap_Leaf.png" class="image"><img alt="Icetrap Leaf.png" src="/mediawiki/images/thumb/6/69/Icetrap_Leaf.png/20px-Icetrap_Leaf.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/69/Icetrap_Leaf.png/30px-Icetrap_Leaf.png 1.5x, /mediawiki/images/6/69/Icetrap_Leaf.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Icetrap_Leaf">&nbsp;</a></span>&nbsp;<a href="/wiki/Icetrap_Leaf" title="Icetrap Leaf">Icetrap Leaf</a></td>
+<td>15</td>
+<td>100</td>
+<td>40m</td>
+<td>1</td>
+<td>122,000
+</td></tr>
+<tr>
+<td>51</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gelato_Flesh.png" class="image"><img alt="Gelato Flesh.png" src="/mediawiki/images/thumb/f/f1/Gelato_Flesh.png/20px-Gelato_Flesh.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f1/Gelato_Flesh.png/30px-Gelato_Flesh.png 1.5x, /mediawiki/images/f/f1/Gelato_Flesh.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gelato_Flesh">&nbsp;</a></span>&nbsp;<a href="/wiki/Gelato_Flesh" title="Gelato Flesh">Gelato Flesh</a></td>
+<td>15</td>
+<td>100</td>
+<td>40m</td>
+<td>1</td>
+<td>122,000
+</td></tr>
+<tr>
+<td>52</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Loaghtan_chump_icon1.png" class="image"><img alt="Loaghtan chump icon1.png" src="/mediawiki/images/thumb/5/56/Loaghtan_chump_icon1.png/20px-Loaghtan_chump_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/56/Loaghtan_chump_icon1.png/30px-Loaghtan_chump_icon1.png 1.5x, /mediawiki/images/5/56/Loaghtan_chump_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Loaghtan_Chump">&nbsp;</a></span>&nbsp;<a href="/wiki/Loaghtan_Chump" title="Loaghtan Chump">Loaghtan Chump</a></td>
+<td>15</td>
+<td>105</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>52</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Yeti_Fang.png" class="image"><img alt="Yeti Fang.png" src="/mediawiki/images/thumb/d/dc/Yeti_Fang.png/20px-Yeti_Fang.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/dc/Yeti_Fang.png/30px-Yeti_Fang.png 1.5x, /mediawiki/images/thumb/d/dc/Yeti_Fang.png/40px-Yeti_Fang.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Yeti_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Yeti_Fang" title="Yeti Fang">Yeti Fang</a></td>
+<td>15</td>
+<td>105</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>52</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Deepeye_Tears.png" class="image"><img alt="Deepeye Tears.png" src="/mediawiki/images/thumb/1/11/Deepeye_Tears.png/20px-Deepeye_Tears.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/1/11/Deepeye_Tears.png/30px-Deepeye_Tears.png 1.5x, /mediawiki/images/1/11/Deepeye_Tears.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Deepeye_Tears">&nbsp;</a></span>&nbsp;<a href="/wiki/Deepeye_Tears" title="Deepeye Tears">Deepeye Tears</a></td>
+<td>15</td>
+<td>105</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>52</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bear_fat_icon1.png" class="image"><img alt="Bear fat icon1.png" src="/mediawiki/images/thumb/0/0b/Bear_fat_icon1.png/20px-Bear_fat_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/0b/Bear_fat_icon1.png/30px-Bear_fat_icon1.png 1.5x, /mediawiki/images/0/0b/Bear_fat_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bear_Fat">&nbsp;</a></span>&nbsp;<a href="/wiki/Bear_Fat" title="Bear Fat">Bear Fat</a></td>
+<td>15</td>
+<td>105</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>53</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Wyvern_Skin.png" class="image"><img alt="Wyvern Skin.png" src="/mediawiki/images/thumb/f/fb/Wyvern_Skin.png/20px-Wyvern_Skin.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/fb/Wyvern_Skin.png/30px-Wyvern_Skin.png 1.5x, /mediawiki/images/thumb/f/fb/Wyvern_Skin.png/40px-Wyvern_Skin.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Wyvern_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Wyvern_Skin" title="Wyvern Skin">Wyvern Skin</a></td>
+<td>15</td>
+<td>110</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>53</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Wyvern_wing_icon1.png" class="image"><img alt="Wyvern wing icon1.png" src="/mediawiki/images/thumb/e/e1/Wyvern_wing_icon1.png/20px-Wyvern_wing_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/e1/Wyvern_wing_icon1.png/30px-Wyvern_wing_icon1.png 1.5x, /mediawiki/images/e/e1/Wyvern_wing_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Wyvern_Wing">&nbsp;</a></span>&nbsp;<a href="/wiki/Wyvern_Wing" title="Wyvern Wing">Wyvern Wing</a></td>
+<td>15</td>
+<td>110</td>
+<td>40m</td>
+<td>1</td>
+<td>154,200
+</td></tr>
+<tr>
+<td>54</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Biast_scales_icon1.png" class="image"><img alt="Biast scales icon1.png" src="/mediawiki/images/thumb/7/77/Biast_scales_icon1.png/20px-Biast_scales_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/77/Biast_scales_icon1.png/30px-Biast_scales_icon1.png 1.5x, /mediawiki/images/7/77/Biast_scales_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Biast_Scales">&nbsp;</a></span>&nbsp;<a href="/wiki/Biast_Scales" title="Biast Scales">Biast Scales</a></td>
+<td>15</td>
+<td>113</td>
+<td>40m</td>
+<td>1</td>
+<td>186,000
+</td></tr>
+<tr>
+<td>55</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dhalmel_Meat.png" class="image"><img alt="Dhalmel Meat.png" src="/mediawiki/images/thumb/d/d1/Dhalmel_Meat.png/20px-Dhalmel_Meat.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d1/Dhalmel_Meat.png/30px-Dhalmel_Meat.png 1.5x, /mediawiki/images/d/d1/Dhalmel_Meat.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dhalmel_Meat">&nbsp;</a></span>&nbsp;<a href="/wiki/Dhalmel_Meat" title="Dhalmel Meat">Dhalmel Meat</a></td>
+<td>15</td>
+<td>116</td>
+<td>40m</td>
+<td>1</td>
+<td>186,000
+</td></tr>
+<tr>
+<td>55</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dhalmel_Hide.png" class="image"><img alt="Dhalmel Hide.png" src="/mediawiki/images/thumb/4/4c/Dhalmel_Hide.png/20px-Dhalmel_Hide.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4c/Dhalmel_Hide.png/30px-Dhalmel_Hide.png 1.5x, /mediawiki/images/4/4c/Dhalmel_Hide.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dhalmel_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Dhalmel_Hide" title="Dhalmel Hide">Dhalmel Hide</a></td>
+<td>15</td>
+<td>116</td>
+<td>40m</td>
+<td>1</td>
+<td>186,000
+</td></tr>
+<tr>
+<td>56</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Drake_scales_icon1.png" class="image"><img alt="Drake scales icon1.png" src="/mediawiki/images/thumb/4/4b/Drake_scales_icon1.png/20px-Drake_scales_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4b/Drake_scales_icon1.png/30px-Drake_scales_icon1.png 1.5x, /mediawiki/images/4/4b/Drake_scales_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Drake_Scales">&nbsp;</a></span>&nbsp;<a href="/wiki/Drake_Scales" title="Drake Scales">Drake Scales</a></td>
+<td>15</td>
+<td>119</td>
+<td>40m</td>
+<td>1</td>
+<td>216,800
+</td></tr>
+<tr>
+<td>56</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dhalmel_Saliva.png" class="image"><img alt="Dhalmel Saliva.png" src="/mediawiki/images/thumb/6/62/Dhalmel_Saliva.png/20px-Dhalmel_Saliva.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/62/Dhalmel_Saliva.png/30px-Dhalmel_Saliva.png 1.5x, /mediawiki/images/6/62/Dhalmel_Saliva.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dhalmel_Saliva">&nbsp;</a></span>&nbsp;<a href="/wiki/Dhalmel_Saliva" title="Dhalmel Saliva">Dhalmel Saliva</a></td>
+<td>15</td>
+<td>119</td>
+<td>40m</td>
+<td>1</td>
+<td>216,800
+</td></tr>
+<tr>
+<td>57</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Okeanis_egg_icon1.png" class="image"><img alt="Okeanis egg icon1.png" src="/mediawiki/images/thumb/2/2b/Okeanis_egg_icon1.png/20px-Okeanis_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/2b/Okeanis_egg_icon1.png/30px-Okeanis_egg_icon1.png 1.5x, /mediawiki/images/2/2b/Okeanis_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Okeanis_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Okeanis_Egg" title="Okeanis Egg">Okeanis Egg</a></td>
+<td>15</td>
+<td>122</td>
+<td>40m</td>
+<td>1</td>
+<td>216,800
+</td></tr>
+<tr>
+<td>57</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dragon_skin_icon1.png" class="image"><img alt="Dragon skin icon1.png" src="/mediawiki/images/thumb/1/16/Dragon_skin_icon1.png/20px-Dragon_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/1/16/Dragon_skin_icon1.png/30px-Dragon_skin_icon1.png 1.5x, /mediawiki/images/1/16/Dragon_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dragon_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Dragon_Skin" title="Dragon Skin">Dragon Skin</a></td>
+<td>15</td>
+<td>122</td>
+<td>40m</td>
+<td>1</td>
+<td>216,800
+</td></tr>
+<tr>
+<td>57</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dragon_fang_icon1.png" class="image"><img alt="Dragon fang icon1.png" src="/mediawiki/images/thumb/9/9a/Dragon_fang_icon1.png/20px-Dragon_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/9a/Dragon_fang_icon1.png/30px-Dragon_fang_icon1.png 1.5x, /mediawiki/images/thumb/9/9a/Dragon_fang_icon1.png/40px-Dragon_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dragon_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Dragon_Fang" title="Dragon Fang">Dragon Fang</a></td>
+<td>15</td>
+<td>122</td>
+<td>40m</td>
+<td>1</td>
+<td>216,800
+</td></tr>
+<tr>
+<td>58</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Okeanis_tail_icon1.png" class="image"><img alt="Okeanis tail icon1.png" src="/mediawiki/images/thumb/7/7b/Okeanis_tail_icon1.png/20px-Okeanis_tail_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/7b/Okeanis_tail_icon1.png/30px-Okeanis_tail_icon1.png 1.5x, /mediawiki/images/7/7b/Okeanis_tail_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Okeanis_Tail">&nbsp;</a></span>&nbsp;<a href="/wiki/Okeanis_Tail" title="Okeanis Tail">Okeanis Tail</a></td>
+<td>15</td>
+<td>125</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>58</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Cockatrice_thigh_icon1.png" class="image"><img alt="Cockatrice thigh icon1.png" src="/mediawiki/images/thumb/5/5a/Cockatrice_thigh_icon1.png/20px-Cockatrice_thigh_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/5a/Cockatrice_thigh_icon1.png/30px-Cockatrice_thigh_icon1.png 1.5x, /mediawiki/images/5/5a/Cockatrice_thigh_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Cockatrice_Thigh">&nbsp;</a></span>&nbsp;<a href="/wiki/Cockatrice_Thigh" title="Cockatrice Thigh">Cockatrice Thigh</a></td>
+<td>15</td>
+<td>125</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>58</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Crawler_cocoon_icon1.png" class="image"><img alt="Crawler cocoon icon1.png" src="/mediawiki/images/thumb/7/7b/Crawler_cocoon_icon1.png/20px-Crawler_cocoon_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/7b/Crawler_cocoon_icon1.png/30px-Crawler_cocoon_icon1.png 1.5x, /mediawiki/images/7/7b/Crawler_cocoon_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Crawler_Cocoon">&nbsp;</a></span>&nbsp;<a href="/wiki/Crawler_Cocoon" title="Crawler Cocoon">Crawler Cocoon</a></td>
+<td>15</td>
+<td>125</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>58</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dragon_scale_icon1.png" class="image"><img alt="Dragon scale icon1.png" src="/mediawiki/images/thumb/e/e4/Dragon_scale_icon1.png/20px-Dragon_scale_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/e4/Dragon_scale_icon1.png/30px-Dragon_scale_icon1.png 1.5x, /mediawiki/images/thumb/e/e4/Dragon_scale_icon1.png/40px-Dragon_scale_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dragon_Scale">&nbsp;</a></span>&nbsp;<a href="/wiki/Dragon_Scale" title="Dragon Scale">Dragon Scale</a></td>
+<td>15</td>
+<td>125</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>58</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dragon_blood_icon1.png" class="image"><img alt="Dragon blood icon1.png" src="/mediawiki/images/thumb/4/4b/Dragon_blood_icon1.png/20px-Dragon_blood_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4b/Dragon_blood_icon1.png/30px-Dragon_blood_icon1.png 1.5x, /mediawiki/images/4/4b/Dragon_blood_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dragon_Blood">&nbsp;</a></span>&nbsp;<a href="/wiki/Dragon_Blood" title="Dragon Blood">Dragon Blood</a></td>
+<td>15</td>
+<td>125</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>59</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Amphiptere_skin_icon1.png" class="image"><img alt="Amphiptere skin icon1.png" src="/mediawiki/images/thumb/6/69/Amphiptere_skin_icon1.png/20px-Amphiptere_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/69/Amphiptere_skin_icon1.png/30px-Amphiptere_skin_icon1.png 1.5x, /mediawiki/images/6/69/Amphiptere_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Amphiptere_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Amphiptere_Skin" title="Amphiptere Skin">Amphiptere Skin</a></td>
+<td>15</td>
+<td>128</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>59</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Griffin_hide_icon1.png" class="image"><img alt="Griffin hide icon1.png" src="/mediawiki/images/thumb/a/a4/Griffin_hide_icon1.png/20px-Griffin_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a4/Griffin_hide_icon1.png/30px-Griffin_hide_icon1.png 1.5x, /mediawiki/images/a/a4/Griffin_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Griffin_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Griffin_Hide" title="Griffin Hide">Griffin Hide</a></td>
+<td>15</td>
+<td>128</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>59</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Griffin_talon_icon1.png" class="image"><img alt="Griffin talon icon1.png" src="/mediawiki/images/thumb/a/af/Griffin_talon_icon1.png/20px-Griffin_talon_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/af/Griffin_talon_icon1.png/30px-Griffin_talon_icon1.png 1.5x, /mediawiki/images/thumb/a/af/Griffin_talon_icon1.png/40px-Griffin_talon_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Griffin_Talon">&nbsp;</a></span>&nbsp;<a href="/wiki/Griffin_Talon" title="Griffin Talon">Griffin Talon</a></td>
+<td>15</td>
+<td>128</td>
+<td>40m</td>
+<td>1</td>
+<td>247,100
+</td></tr>
+<tr>
+<td>60</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Chimera_mane_icon1.png" class="image"><img alt="Chimera mane icon1.png" src="/mediawiki/images/thumb/f/f5/Chimera_mane_icon1.png/20px-Chimera_mane_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f5/Chimera_mane_icon1.png/30px-Chimera_mane_icon1.png 1.5x, /mediawiki/images/f/f5/Chimera_mane_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Chimera_Mane">&nbsp;</a></span>&nbsp;<a href="/wiki/Chimera_Mane" title="Chimera Mane">Chimera Mane</a></td>
+<td>15</td>
+<td>130</td>
+<td>40m</td>
+<td>1</td>
+<td>251,000
+</td></tr>
+<tr>
+<td>61</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gagana_egg_icon1.png" class="image"><img alt="Gagana egg icon1.png" src="/mediawiki/images/thumb/0/07/Gagana_egg_icon1.png/20px-Gagana_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/07/Gagana_egg_icon1.png/30px-Gagana_egg_icon1.png 1.5x, /mediawiki/images/0/07/Gagana_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gagana_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Gagana_Egg" title="Gagana Egg">Gagana Egg</a></td>
+<td>15</td>
+<td>235</td>
+<td>40m</td>
+<td>1</td>
+<td>251,000
+</td></tr>
+<tr>
+<td>61</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Muud_suud_horn_icon1.png" class="image"><img alt="Muud suud horn icon1.png" src="/mediawiki/images/thumb/c/cf/Muud_suud_horn_icon1.png/20px-Muud_suud_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/cf/Muud_suud_horn_icon1.png/30px-Muud_suud_horn_icon1.png 1.5x, /mediawiki/images/c/cf/Muud_suud_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Muud_Suud_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Muud_Suud_Horn" title="Muud Suud Horn">Muud Suud Horn</a></td>
+<td>15</td>
+<td>235</td>
+<td>40m</td>
+<td>1</td>
+<td>251,000
+</td></tr>
+<tr>
+<td>62</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gagana_skin_icon1.png" class="image"><img alt="Gagana skin icon1.png" src="/mediawiki/images/thumb/8/85/Gagana_skin_icon1.png/20px-Gagana_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/85/Gagana_skin_icon1.png/30px-Gagana_skin_icon1.png 1.5x, /mediawiki/images/8/85/Gagana_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gagana_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Gagana_Skin" title="Gagana Skin">Gagana Skin</a></td>
+<td>15</td>
+<td>245</td>
+<td>40m</td>
+<td>1</td>
+<td>261,500
+</td></tr>
+<tr>
+<td>62</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Rhino_beetle_carapace_icon1.png" class="image"><img alt="Rhino beetle carapace icon1.png" src="/mediawiki/images/thumb/7/7f/Rhino_beetle_carapace_icon1.png/20px-Rhino_beetle_carapace_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/7f/Rhino_beetle_carapace_icon1.png/30px-Rhino_beetle_carapace_icon1.png 1.5x, /mediawiki/images/7/7f/Rhino_beetle_carapace_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Rhino_Beetle_Carapace">&nbsp;</a></span>&nbsp;<a href="/wiki/Rhino_Beetle_Carapace" title="Rhino Beetle Carapace">Rhino Beetle Carapace</a></td>
+<td>15</td>
+<td>245</td>
+<td>40m</td>
+<td>1</td>
+<td>261,500
+</td></tr>
+<tr>
+<td>62</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Moth_scales_icon1.png" class="image"><img alt="Moth scales icon1.png" src="/mediawiki/images/thumb/e/e3/Moth_scales_icon1.png/20px-Moth_scales_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/e3/Moth_scales_icon1.png/30px-Moth_scales_icon1.png 1.5x, /mediawiki/images/e/e3/Moth_scales_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Moth_Scales">&nbsp;</a></span>&nbsp;<a href="/wiki/Moth_Scales" title="Moth Scales">Moth Scales</a></td>
+<td>15</td>
+<td>245</td>
+<td>40m</td>
+<td>1</td>
+<td>261,500
+</td></tr>
+<tr>
+<td>63</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Hornbill_tenderloin_icon1.png" class="image"><img alt="Hornbill tenderloin icon1.png" src="/mediawiki/images/thumb/5/5a/Hornbill_tenderloin_icon1.png/20px-Hornbill_tenderloin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/5a/Hornbill_tenderloin_icon1.png/30px-Hornbill_tenderloin_icon1.png 1.5x, /mediawiki/images/5/5a/Hornbill_tenderloin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Hornbill_Tenderloin">&nbsp;</a></span>&nbsp;<a href="/wiki/Hornbill_Tenderloin" title="Hornbill Tenderloin">Hornbill Tenderloin</a></td>
+<td>15</td>
+<td>250</td>
+<td>40m</td>
+<td>1</td>
+<td>261,500
+</td></tr>
+<tr>
+<td>63</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bombfish_spine_icon1.png" class="image"><img alt="Bombfish spine icon1.png" src="/mediawiki/images/thumb/8/88/Bombfish_spine_icon1.png/20px-Bombfish_spine_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/88/Bombfish_spine_icon1.png/30px-Bombfish_spine_icon1.png 1.5x, /mediawiki/images/8/88/Bombfish_spine_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bombfish_Spine">&nbsp;</a></span>&nbsp;<a href="/wiki/Bombfish_Spine" title="Bombfish Spine">Bombfish Spine</a></td>
+<td>15</td>
+<td>250</td>
+<td>40m</td>
+<td>1</td>
+<td>261,500
+</td></tr>
+<tr>
+<td>64</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gyuki_hide_icon1.png" class="image"><img alt="Gyuki hide icon1.png" src="/mediawiki/images/thumb/0/03/Gyuki_hide_icon1.png/20px-Gyuki_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/03/Gyuki_hide_icon1.png/30px-Gyuki_hide_icon1.png 1.5x, /mediawiki/images/0/03/Gyuki_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gyuki_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Gyuki_Hide" title="Gyuki Hide">Gyuki Hide</a></td>
+<td>15</td>
+<td>253</td>
+<td>40m</td>
+<td>1</td>
+<td>262,000
+</td></tr>
+<tr>
+<td>65</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dzo_horn_icon1.png" class="image"><img alt="Dzo horn icon1.png" src="/mediawiki/images/thumb/3/3a/Dzo_horn_icon1.png/20px-Dzo_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/3a/Dzo_horn_icon1.png/30px-Dzo_horn_icon1.png 1.5x, /mediawiki/images/3/3a/Dzo_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dzo_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Dzo_Horn" title="Dzo Horn">Dzo Horn</a></td>
+<td>15</td>
+<td>256</td>
+<td>40m</td>
+<td>1</td>
+<td>262,000
+</td></tr>
+<tr>
+<td>66</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Steppe_milk_icon1.png" class="image"><img alt="Steppe milk icon1.png" src="/mediawiki/images/thumb/b/b4/Steppe_milk_icon1.png/20px-Steppe_milk_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/b4/Steppe_milk_icon1.png/30px-Steppe_milk_icon1.png 1.5x, /mediawiki/images/b/b4/Steppe_milk_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Steppe_Milk">&nbsp;</a></span>&nbsp;<a href="/wiki/Steppe_Milk" title="Steppe Milk">Steppe Milk</a></td>
+<td>15</td>
+<td>259</td>
+<td>40m</td>
+<td>1</td>
+<td>265,800
+</td></tr>
+<tr>
+<td>66</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dzo_chuck_icon1.png" class="image"><img alt="Dzo chuck icon1.png" src="/mediawiki/images/thumb/d/db/Dzo_chuck_icon1.png/20px-Dzo_chuck_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/db/Dzo_chuck_icon1.png/30px-Dzo_chuck_icon1.png 1.5x, /mediawiki/images/d/db/Dzo_chuck_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dzo_Chuck">&nbsp;</a></span>&nbsp;<a href="/wiki/Dzo_Chuck" title="Dzo Chuck">Dzo Chuck</a></td>
+<td>15</td>
+<td>259</td>
+<td>40m</td>
+<td>1</td>
+<td>265,800
+</td></tr>
+<tr>
+<td>66</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Tiger_skin_icon1.png" class="image"><img alt="Tiger skin icon1.png" src="/mediawiki/images/thumb/6/67/Tiger_skin_icon1.png/20px-Tiger_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/67/Tiger_skin_icon1.png/30px-Tiger_skin_icon1.png 1.5x, /mediawiki/images/6/67/Tiger_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Tiger_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Tiger_Skin" title="Tiger Skin">Tiger Skin</a></td>
+<td>15</td>
+<td>259</td>
+<td>40m</td>
+<td>1</td>
+<td>265,800
+</td></tr>
+<tr>
+<td>67</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Halgai_mane_icon1.png" class="image"><img alt="Halgai mane icon1.png" src="/mediawiki/images/thumb/9/97/Halgai_mane_icon1.png/20px-Halgai_mane_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/97/Halgai_mane_icon1.png/30px-Halgai_mane_icon1.png 1.5x, /mediawiki/images/9/97/Halgai_mane_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Halgai_Mane">&nbsp;</a></span>&nbsp;<a href="/wiki/Halgai_Mane" title="Halgai Mane">Halgai Mane</a></td>
+<td>15</td>
+<td>262</td>
+<td>40m</td>
+<td>1</td>
+<td>265,800
+</td></tr>
+<tr>
+<td>67</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gazelle_horn_icon1.png" class="image"><img alt="Gazelle horn icon1.png" src="/mediawiki/images/thumb/a/a6/Gazelle_horn_icon1.png/20px-Gazelle_horn_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a6/Gazelle_horn_icon1.png/30px-Gazelle_horn_icon1.png 1.5x, /mediawiki/images/a/a6/Gazelle_horn_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gazelle_Horn">&nbsp;</a></span>&nbsp;<a href="/wiki/Gazelle_Horn" title="Gazelle Horn">Gazelle Horn</a></td>
+<td>15</td>
+<td>262</td>
+<td>40m</td>
+<td>1</td>
+<td>265,800
+</td></tr>
+<tr>
+<td>68</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Manzasiri_hair_icon1.png" class="image"><img alt="Manzasiri hair icon1.png" src="/mediawiki/images/thumb/3/38/Manzasiri_hair_icon1.png/20px-Manzasiri_hair_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/38/Manzasiri_hair_icon1.png/30px-Manzasiri_hair_icon1.png 1.5x, /mediawiki/images/3/38/Manzasiri_hair_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Manzasiri_Hair">&nbsp;</a></span>&nbsp;<a href="/wiki/Manzasiri_Hair" title="Manzasiri Hair">Manzasiri Hair</a></td>
+<td>15</td>
+<td>265</td>
+<td>40m</td>
+<td>1</td>
+<td>283,300
+</td></tr>
+<tr>
+<td>68</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Marid_hide_icon1.png" class="image"><img alt="Marid hide icon1.png" src="/mediawiki/images/thumb/3/35/Marid_hide_icon1.png/20px-Marid_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/35/Marid_hide_icon1.png/30px-Marid_hide_icon1.png 1.5x, /mediawiki/images/3/35/Marid_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Marid_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Marid_Hide" title="Marid Hide">Marid Hide</a></td>
+<td>15</td>
+<td>265</td>
+<td>40m</td>
+<td>1</td>
+<td>283,300
+</td></tr>
+<tr>
+<td>69</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Jhammel_haunch_icon1.png" class="image"><img alt="Jhammel haunch icon1.png" src="/mediawiki/images/thumb/0/0b/Jhammel_haunch_icon1.png/20px-Jhammel_haunch_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/0b/Jhammel_haunch_icon1.png/30px-Jhammel_haunch_icon1.png 1.5x, /mediawiki/images/0/0b/Jhammel_haunch_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Jhammel_Haunch">&nbsp;</a></span>&nbsp;<a href="/wiki/Jhammel_Haunch" title="Jhammel Haunch">Jhammel Haunch</a></td>
+<td>15</td>
+<td>268</td>
+<td>40m</td>
+<td>1</td>
+<td>283,300
+</td></tr>
+<tr>
+<td>69</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Twincoon_icon1.png" class="image"><img alt="Twincoon icon1.png" src="/mediawiki/images/thumb/a/aa/Twincoon_icon1.png/20px-Twincoon_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/aa/Twincoon_icon1.png/30px-Twincoon_icon1.png 1.5x, /mediawiki/images/a/aa/Twincoon_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Twincoon">&nbsp;</a></span>&nbsp;<a href="/wiki/Twincoon" title="Twincoon">Twincoon</a></td>
+<td>15</td>
+<td>268</td>
+<td>40m</td>
+<td>1</td>
+<td>283,300
+</td></tr>
+<tr>
+<td>70</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gazelle_hide_icon1.png" class="image"><img alt="Gazelle hide icon1.png" src="/mediawiki/images/thumb/5/5e/Gazelle_hide_icon1.png/20px-Gazelle_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/5e/Gazelle_hide_icon1.png/30px-Gazelle_hide_icon1.png 1.5x, /mediawiki/images/5/5e/Gazelle_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gazelle_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Gazelle_Hide" title="Gazelle Hide">Gazelle Hide</a></td>
+<td>15</td>
+<td>270</td>
+<td>40m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>70</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:True_griffin_hide_icon1.png" class="image"><img alt="True griffin hide icon1.png" src="/mediawiki/images/thumb/f/f3/True_griffin_hide_icon1.png/20px-True_griffin_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f3/True_griffin_hide_icon1.png/30px-True_griffin_hide_icon1.png 1.5x, /mediawiki/images/f/f3/True_griffin_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/True_Griffin_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/True_Griffin_Hide" title="True Griffin Hide">True Griffin Hide</a></td>
+<td>15</td>
+<td>270</td>
+<td>40m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>70</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Island_wolf_fang_icon1.png" class="image"><img alt="Island wolf fang icon1.png" src="/mediawiki/images/thumb/6/6e/Island_wolf_fang_icon1.png/20px-Island_wolf_fang_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/6e/Island_wolf_fang_icon1.png/30px-Island_wolf_fang_icon1.png 1.5x, /mediawiki/images/6/6e/Island_wolf_fang_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Island_Wolf_Fang">&nbsp;</a></span>&nbsp;<a href="/wiki/Island_Wolf_Fang" title="Island Wolf Fang">Island Wolf Fang</a></td>
+<td>15</td>
+<td>270</td>
+<td>40m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>71</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Rail_tenderloin_icon1.png" class="image"><img alt="Rail tenderloin icon1.png" src="/mediawiki/images/thumb/f/fd/Rail_tenderloin_icon1.png/20px-Rail_tenderloin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/fd/Rail_tenderloin_icon1.png/30px-Rail_tenderloin_icon1.png 1.5x, /mediawiki/images/f/fd/Rail_tenderloin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Rail_Tenderloin">&nbsp;</a></span>&nbsp;<a href="/wiki/Rail_Tenderloin" title="Rail Tenderloin">Rail Tenderloin</a></td>
+<td>15</td>
+<td>370</td>
+<td>50m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>71</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Smilodon_skin_icon1.png" class="image"><img alt="Smilodon skin icon1.png" src="/mediawiki/images/thumb/2/26/Smilodon_skin_icon1.png/20px-Smilodon_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/26/Smilodon_skin_icon1.png/30px-Smilodon_skin_icon1.png 1.5x, /mediawiki/images/2/26/Smilodon_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Smilodon_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Smilodon_Skin" title="Smilodon Skin">Smilodon Skin</a></td>
+<td>15</td>
+<td>370</td>
+<td>50m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>71</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Hoptrap_leaf_icon1.png" class="image"><img alt="Hoptrap leaf icon1.png" src="/mediawiki/images/thumb/3/35/Hoptrap_leaf_icon1.png/20px-Hoptrap_leaf_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/35/Hoptrap_leaf_icon1.png/30px-Hoptrap_leaf_icon1.png 1.5x, /mediawiki/images/3/35/Hoptrap_leaf_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Hoptrap_Leaf">&nbsp;</a></span>&nbsp;<a href="/wiki/Hoptrap_Leaf" title="Hoptrap Leaf">Hoptrap Leaf</a></td>
+<td>15</td>
+<td>370</td>
+<td>50m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>71</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Silkmoth_scales_icon1.png" class="image"><img alt="Silkmoth scales icon1.png" src="/mediawiki/images/thumb/f/f5/Silkmoth_scales_icon1.png/20px-Silkmoth_scales_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/f/f5/Silkmoth_scales_icon1.png/30px-Silkmoth_scales_icon1.png 1.5x, /mediawiki/images/f/f5/Silkmoth_scales_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Silkmoth_Scales">&nbsp;</a></span>&nbsp;<a href="/wiki/Silkmoth_Scales" title="Silkmoth Scales">Silkmoth Scales</a></td>
+<td>15</td>
+<td>370</td>
+<td>50m</td>
+<td>1</td>
+<td>301,800
+</td></tr>
+<tr>
+<td>72</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Green_glider_skin_icon1.png" class="image"><img alt="Green glider skin icon1.png" src="/mediawiki/images/thumb/e/eb/Green_glider_skin_icon1.png/20px-Green_glider_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/eb/Green_glider_skin_icon1.png/30px-Green_glider_skin_icon1.png 1.5x, /mediawiki/images/e/eb/Green_glider_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Green_Glider_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Green_Glider_Skin" title="Green Glider Skin">Green Glider Skin</a></td>
+<td>15</td>
+<td>375</td>
+<td>50m</td>
+<td>1</td>
+<td>332,400
+</td></tr>
+<tr>
+<td>73</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Lorikeet_egg_icon1.png" class="image"><img alt="Lorikeet egg icon1.png" src="/mediawiki/images/thumb/b/be/Lorikeet_egg_icon1.png/20px-Lorikeet_egg_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/be/Lorikeet_egg_icon1.png/30px-Lorikeet_egg_icon1.png 1.5x, /mediawiki/images/b/be/Lorikeet_egg_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Lorikeet_Egg">&nbsp;</a></span>&nbsp;<a href="/wiki/Lorikeet_Egg" title="Lorikeet Egg">Lorikeet Egg</a></td>
+<td>15</td>
+<td>380</td>
+<td>50m</td>
+<td>1</td>
+<td>332,400
+</td></tr>
+<tr>
+<td>73</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Lorikeet_down_icon1.png" class="image"><img alt="Lorikeet down icon1.png" src="/mediawiki/images/thumb/0/07/Lorikeet_down_icon1.png/20px-Lorikeet_down_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/07/Lorikeet_down_icon1.png/30px-Lorikeet_down_icon1.png 1.5x, /mediawiki/images/0/07/Lorikeet_down_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Lorikeet_Down">&nbsp;</a></span>&nbsp;<a href="/wiki/Lorikeet_Down" title="Lorikeet Down">Lorikeet Down</a></td>
+<td>15</td>
+<td>380</td>
+<td>50m</td>
+<td>1</td>
+<td>332,400
+</td></tr>
+<tr>
+<td>74</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Atrociraptor_skin_icon1.png" class="image"><img alt="Atrociraptor skin icon1.png" src="/mediawiki/images/thumb/4/40/Atrociraptor_skin_icon1.png/20px-Atrociraptor_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/40/Atrociraptor_skin_icon1.png/30px-Atrociraptor_skin_icon1.png 1.5x, /mediawiki/images/4/40/Atrociraptor_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Atrociraptor_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Atrociraptor_Skin" title="Atrociraptor Skin">Atrociraptor Skin</a></td>
+<td>15</td>
+<td>383</td>
+<td>50m</td>
+<td>1</td>
+<td>377,100
+</td></tr>
+<tr>
+<td>75</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Vampire_vine_sap_icon1.png" class="image"><img alt="Vampire vine sap icon1.png" src="/mediawiki/images/thumb/7/78/Vampire_vine_sap_icon1.png/20px-Vampire_vine_sap_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/78/Vampire_vine_sap_icon1.png/30px-Vampire_vine_sap_icon1.png 1.5x, /mediawiki/images/7/78/Vampire_vine_sap_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Vampire_Vine_Sap">&nbsp;</a></span>&nbsp;<a href="/wiki/Vampire_Vine_Sap" title="Vampire Vine Sap">Vampire Vine Sap</a></td>
+<td>15</td>
+<td>386</td>
+<td>50m</td>
+<td>1</td>
+<td>377,100
+</td></tr>
+<tr>
+<td>75</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Vampire_cup_vine_icon1.png" class="image"><img alt="Vampire cup vine icon1.png" src="/mediawiki/images/thumb/5/50/Vampire_cup_vine_icon1.png/20px-Vampire_cup_vine_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/5/50/Vampire_cup_vine_icon1.png/30px-Vampire_cup_vine_icon1.png 1.5x, /mediawiki/images/5/50/Vampire_cup_vine_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Vampire_Cup_Vine">&nbsp;</a></span>&nbsp;<a href="/wiki/Vampire_Cup_Vine" title="Vampire Cup Vine">Vampire Cup Vine</a></td>
+<td>15</td>
+<td>386</td>
+<td>50m</td>
+<td>1</td>
+<td>377,100
+</td></tr>
+<tr>
+<td>76</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ovim_meat_icon1.png" class="image"><img alt="Ovim meat icon1.png" src="/mediawiki/images/thumb/8/88/Ovim_meat_icon1.png/20px-Ovim_meat_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/88/Ovim_meat_icon1.png/30px-Ovim_meat_icon1.png 1.5x, /mediawiki/images/8/88/Ovim_meat_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ovim_Meat">&nbsp;</a></span>&nbsp;<a href="/wiki/Ovim_Meat" title="Ovim Meat">Ovim Meat</a></td>
+<td>15</td>
+<td>389</td>
+<td>50m</td>
+<td>1</td>
+<td>437,700
+</td></tr>
+<tr>
+<td>77</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ovim_fleece_icon1.png" class="image"><img alt="Ovim fleece icon1.png" src="/mediawiki/images/thumb/1/1c/Ovim_fleece_icon1.png/20px-Ovim_fleece_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/1/1c/Ovim_fleece_icon1.png/30px-Ovim_fleece_icon1.png 1.5x, /mediawiki/images/1/1c/Ovim_fleece_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ovim_Fleece">&nbsp;</a></span>&nbsp;<a href="/wiki/Ovim_Fleece" title="Ovim Fleece">Ovim Fleece</a></td>
+<td>15</td>
+<td>392</td>
+<td>50m</td>
+<td>1</td>
+<td>437,700
+</td></tr>
+<tr>
+<td>77</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Zonure_skin_icon1.png" class="image"><img alt="Zonure skin icon1.png" src="/mediawiki/images/thumb/0/0c/Zonure_skin_icon1.png/20px-Zonure_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/0/0c/Zonure_skin_icon1.png/30px-Zonure_skin_icon1.png 1.5x, /mediawiki/images/0/0c/Zonure_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Zonure_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Zonure_Skin" title="Zonure Skin">Zonure Skin</a></td>
+<td>15</td>
+<td>392</td>
+<td>50m</td>
+<td>1</td>
+<td>437,700
+</td></tr>
+<tr>
+<td>78</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Sea_swallow_skin_icon1.png" class="image"><img alt="Sea swallow skin icon1.png" src="/mediawiki/images/thumb/3/3f/Sea_swallow_skin_icon1.png/20px-Sea_swallow_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/3f/Sea_swallow_skin_icon1.png/30px-Sea_swallow_skin_icon1.png 1.5x, /mediawiki/images/3/3f/Sea_swallow_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Sea_Swallow_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Sea_Swallow_Skin" title="Sea Swallow Skin">Sea Swallow Skin</a></td>
+<td>15</td>
+<td>395</td>
+<td>50m</td>
+<td>1</td>
+<td>525,600
+</td></tr>
+<tr>
+<td>79</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Cubus_flesh_icon1.png" class="image"><img alt="Cubus flesh icon1.png" src="/mediawiki/images/thumb/9/91/Cubus_flesh_icon1.png/20px-Cubus_flesh_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/91/Cubus_flesh_icon1.png/30px-Cubus_flesh_icon1.png 1.5x, /mediawiki/images/9/91/Cubus_flesh_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Cubus_Flesh">&nbsp;</a></span>&nbsp;<a href="/wiki/Cubus_Flesh" title="Cubus Flesh">Cubus Flesh</a></td>
+<td>15</td>
+<td>398</td>
+<td>50m</td>
+<td>1</td>
+<td>525,600
+</td></tr>
+<tr>
+<td>79</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Hydrozoan_umbrella_icon1.png" class="image"><img alt="Hydrozoan umbrella icon1.png" src="/mediawiki/images/thumb/2/29/Hydrozoan_umbrella_icon1.png/20px-Hydrozoan_umbrella_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/29/Hydrozoan_umbrella_icon1.png/30px-Hydrozoan_umbrella_icon1.png 1.5x, /mediawiki/images/2/29/Hydrozoan_umbrella_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Hydrozoan_Umbrella">&nbsp;</a></span>&nbsp;<a href="/wiki/Hydrozoan_Umbrella" title="Hydrozoan Umbrella">Hydrozoan Umbrella</a></td>
+<td>15</td>
+<td>398</td>
+<td>50m</td>
+<td>1</td>
+<td>525,600
+</td></tr>
+<tr>
+<td>80</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Hamsa_tenderloin_icon1.png" class="image"><img alt="Hamsa tenderloin icon1.png" src="/mediawiki/images/thumb/9/9c/Hamsa_tenderloin_icon1.png/20px-Hamsa_tenderloin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/9c/Hamsa_tenderloin_icon1.png/30px-Hamsa_tenderloin_icon1.png 1.5x, /mediawiki/images/9/9c/Hamsa_tenderloin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Hamsa_Tenderloin">&nbsp;</a></span>&nbsp;<a href="/wiki/Hamsa_Tenderloin" title="Hamsa Tenderloin">Hamsa Tenderloin</a></td>
+<td>15</td>
+<td>495</td>
+<td>50m</td>
+<td>1</td>
+<td>599,200
+</td></tr>
+<tr>
+<td>80</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Amra_icon1.png" class="image"><img alt="Amra icon1.png" src="/mediawiki/images/thumb/a/a0/Amra_icon1.png/20px-Amra_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/a/a0/Amra_icon1.png/30px-Amra_icon1.png 1.5x, /mediawiki/images/a/a0/Amra_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Amra">&nbsp;</a></span>&nbsp;<a href="/wiki/Amra" title="Amra">Amra</a></td>
+<td>15</td>
+<td>495</td>
+<td>50m</td>
+<td>1</td>
+<td>599,200
+</td></tr>
+<tr>
+<td>80</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Gaja_hide_icon1.png" class="image"><img alt="Gaja hide icon1.png" src="/mediawiki/images/thumb/9/9b/Gaja_hide_icon1.png/20px-Gaja_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/9/9b/Gaja_hide_icon1.png/30px-Gaja_hide_icon1.png 1.5x, /mediawiki/images/9/9b/Gaja_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Gaja_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Gaja_Hide" title="Gaja Hide">Gaja Hide</a></td>
+<td>15</td>
+<td>495</td>
+<td>50m</td>
+<td>1</td>
+<td>599,200
+</td></tr>
+<tr>
+<td>81</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Yakow_chuck_icon1.png" class="image"><img alt="Yakow chuck icon1.png" src="/mediawiki/images/thumb/e/e0/Yakow_chuck_icon1.png/20px-Yakow_chuck_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/e/e0/Yakow_chuck_icon1.png/30px-Yakow_chuck_icon1.png 1.5x, /mediawiki/images/e/e0/Yakow_chuck_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Yakow_Chuck">&nbsp;</a></span>&nbsp;<a href="/wiki/Yakow_Chuck" title="Yakow Chuck">Yakow Chuck</a></td>
+<td>15</td>
+<td>500</td>
+<td>1h</td>
+<td>1</td>
+<td>694,200
+</td></tr>
+<tr>
+<td>82</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ovibos_milk_icon1.png" class="image"><img alt="Ovibos milk icon1.png" src="/mediawiki/images/thumb/7/7a/Ovibos_milk_icon1.png/20px-Ovibos_milk_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/7a/Ovibos_milk_icon1.png/30px-Ovibos_milk_icon1.png 1.5x, /mediawiki/images/7/7a/Ovibos_milk_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ovibos_Milk">&nbsp;</a></span>&nbsp;<a href="/wiki/Ovibos_Milk" title="Ovibos Milk">Ovibos Milk</a></td>
+<td>15</td>
+<td>505</td>
+<td>1h</td>
+<td>1</td>
+<td>694,200
+</td></tr>
+<tr>
+<td>82</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Almasty_fur_icon1.png" class="image"><img alt="Almasty fur icon1.png" src="/mediawiki/images/thumb/2/24/Almasty_fur_icon1.png/20px-Almasty_fur_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/2/24/Almasty_fur_icon1.png/30px-Almasty_fur_icon1.png 1.5x, /mediawiki/images/2/24/Almasty_fur_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Almasty_Fur">&nbsp;</a></span>&nbsp;<a href="/wiki/Almasty_Fur" title="Almasty Fur">Almasty Fur</a></td>
+<td>15</td>
+<td>505</td>
+<td>1h</td>
+<td>1</td>
+<td>694,200
+</td></tr>
+<tr>
+<td>82</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Luncheon_toad_skin_icon1.png" class="image"><img alt="Luncheon toad skin icon1.png" src="/mediawiki/images/thumb/d/d9/Luncheon_toad_skin_icon1.png/20px-Luncheon_toad_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d9/Luncheon_toad_skin_icon1.png/30px-Luncheon_toad_skin_icon1.png 1.5x, /mediawiki/images/d/d9/Luncheon_toad_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Luncheon_Toad_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Luncheon_Toad_Skin" title="Luncheon Toad Skin">Luncheon Toad Skin</a></td>
+<td>15</td>
+<td>505</td>
+<td>1h</td>
+<td>1</td>
+<td>694,200
+</td></tr>
+<tr>
+<td>83</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Lunatender_blossom_icon1.png" class="image"><img alt="Lunatender blossom icon1.png" src="/mediawiki/images/thumb/6/6e/Lunatender_blossom_icon1.png/20px-Lunatender_blossom_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/6/6e/Lunatender_blossom_icon1.png/30px-Lunatender_blossom_icon1.png 1.5x, /mediawiki/images/6/6e/Lunatender_blossom_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Lunatender_Blossom">&nbsp;</a></span>&nbsp;<a href="/wiki/Lunatender_Blossom" title="Lunatender Blossom">Lunatender Blossom</a></td>
+<td>15</td>
+<td>510</td>
+<td>1h</td>
+<td>1</td>
+<td>794,800
+</td></tr>
+<tr>
+<td>84</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Saiga_hide_icon1.png" class="image"><img alt="Saiga hide icon1.png" src="/mediawiki/images/thumb/b/b2/Saiga_hide_icon1.png/20px-Saiga_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/b/b2/Saiga_hide_icon1.png/30px-Saiga_hide_icon1.png 1.5x, /mediawiki/images/b/b2/Saiga_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Saiga_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Saiga_Hide" title="Saiga Hide">Saiga Hide</a></td>
+<td>15</td>
+<td>513</td>
+<td>1h</td>
+<td>1</td>
+<td>794,800
+</td></tr>
+<tr>
+<td>84</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dynamite_ash_icon1.png" class="image"><img alt="Dynamite ash icon1.png" src="/mediawiki/images/thumb/4/42/Dynamite_ash_icon1.png/20px-Dynamite_ash_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/42/Dynamite_ash_icon1.png/30px-Dynamite_ash_icon1.png 1.5x, /mediawiki/images/4/42/Dynamite_ash_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dynamite_Ash">&nbsp;</a></span>&nbsp;<a href="/wiki/Dynamite_Ash" title="Dynamite Ash">Dynamite Ash</a></td>
+<td>15</td>
+<td>513</td>
+<td>1h</td>
+<td>1</td>
+<td>794,800
+</td></tr>
+<tr>
+<td>84</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Mousse_flesh_icon1.png" class="image"><img alt="Mousse flesh icon1.png" src="/mediawiki/images/thumb/c/c6/Mousse_flesh_icon1.png/20px-Mousse_flesh_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/c6/Mousse_flesh_icon1.png/30px-Mousse_flesh_icon1.png 1.5x, /mediawiki/images/c/c6/Mousse_flesh_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Mousse_Flesh">&nbsp;</a></span>&nbsp;<a href="/wiki/Mousse_Flesh" title="Mousse Flesh">Mousse Flesh</a></td>
+<td>15</td>
+<td>513</td>
+<td>1h</td>
+<td>1</td>
+<td>794,800
+</td></tr>
+<tr>
+<td>86</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Bird_of_elpis_breast_icon1.png" class="image"><img alt="Bird of elpis breast icon1.png" src="/mediawiki/images/thumb/d/d4/Bird_of_elpis_breast_icon1.png/20px-Bird_of_elpis_breast_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d4/Bird_of_elpis_breast_icon1.png/30px-Bird_of_elpis_breast_icon1.png 1.5x, /mediawiki/images/thumb/d/d4/Bird_of_elpis_breast_icon1.png/40px-Bird_of_elpis_breast_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Bird_of_Elpis_Breast">&nbsp;</a></span>&nbsp;<a href="/wiki/Bird_of_Elpis_Breast" title="Bird of Elpis Breast">Bird of Elpis Breast</a></td>
+<td>12</td>
+<td>519</td>
+<td>1h</td>
+<td>1</td>
+<td>923,100
+</td></tr>
+<tr>
+<td>86</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Egg_of_elpis_icon1.png" class="image"><img alt="Egg of elpis icon1.png" src="/mediawiki/images/thumb/c/c1/Egg_of_elpis_icon1.png/20px-Egg_of_elpis_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/c/c1/Egg_of_elpis_icon1.png/30px-Egg_of_elpis_icon1.png 1.5x, /mediawiki/images/thumb/c/c1/Egg_of_elpis_icon1.png/40px-Egg_of_elpis_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Egg_of_Elpis">&nbsp;</a></span>&nbsp;<a href="/wiki/Egg_of_Elpis" title="Egg of Elpis">Egg of Elpis</a></td>
+<td>12</td>
+<td>519</td>
+<td>1h</td>
+<td>1</td>
+<td>923,100
+</td></tr>
+<tr>
+<td>86</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Kumbhira_skin_icon1.png" class="image"><img alt="Kumbhira skin icon1.png" src="/mediawiki/images/thumb/4/4f/Kumbhira_skin_icon1.png/20px-Kumbhira_skin_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/4/4f/Kumbhira_skin_icon1.png/30px-Kumbhira_skin_icon1.png 1.5x, /mediawiki/images/4/4f/Kumbhira_skin_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Kumbhira_Skin">&nbsp;</a></span>&nbsp;<a href="/wiki/Kumbhira_Skin" title="Kumbhira Skin">Kumbhira Skin</a></td>
+<td>12</td>
+<td>519</td>
+<td>1h</td>
+<td>1</td>
+<td>923,100
+</td></tr>
+<tr>
+<td>86</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Petalouda_scales_icon1.png" class="image"><img alt="Petalouda scales icon1.png" src="/mediawiki/images/thumb/8/86/Petalouda_scales_icon1.png/20px-Petalouda_scales_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/8/86/Petalouda_scales_icon1.png/30px-Petalouda_scales_icon1.png 1.5x, /mediawiki/images/8/86/Petalouda_scales_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Petalouda_Scales">&nbsp;</a></span>&nbsp;<a href="/wiki/Petalouda_Scales" title="Petalouda Scales">Petalouda Scales</a></td>
+<td>12</td>
+<td>519</td>
+<td>1h</td>
+<td>1</td>
+<td>923,100
+</td></tr>
+<tr>
+<td>88</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Ophiotauros_hide_icon1.png" class="image"><img alt="Ophiotauros hide icon1.png" src="/mediawiki/images/thumb/7/74/Ophiotauros_hide_icon1.png/20px-Ophiotauros_hide_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/7/74/Ophiotauros_hide_icon1.png/30px-Ophiotauros_hide_icon1.png 1.5x, /mediawiki/images/7/74/Ophiotauros_hide_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Ophiotauros_Hide">&nbsp;</a></span>&nbsp;<a href="/wiki/Ophiotauros_Hide" title="Ophiotauros Hide">Ophiotauros Hide</a></td>
+<td>10</td>
+<td>525</td>
+<td>1h</td>
+<td>1</td>
+<td>1,045,900
+</td></tr>
+<tr>
+<td>88</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Berkanan_sap_icon1.png" class="image"><img alt="Berkanan sap icon1.png" src="/mediawiki/images/thumb/d/d4/Berkanan_sap_icon1.png/20px-Berkanan_sap_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/d/d4/Berkanan_sap_icon1.png/30px-Berkanan_sap_icon1.png 1.5x, /mediawiki/images/d/d4/Berkanan_sap_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Berkanan_Sap">&nbsp;</a></span>&nbsp;<a href="/wiki/Berkanan_Sap" title="Berkanan Sap">Berkanan Sap</a></td>
+<td>10</td>
+<td>525</td>
+<td>1h</td>
+<td>1</td>
+<td>1,045,900
+</td></tr>
+<tr>
+<td>89</td>
+<td align="left"><span class="standard-frame-icon small"><a href="/wiki/File:Dynamis_crystal_icon1.png" class="image"><img alt="Dynamis crystal icon1.png" src="/mediawiki/images/thumb/3/33/Dynamis_crystal_icon1.png/20px-Dynamis_crystal_icon1.png" decoding="async" width="20" height="20" srcset="/mediawiki/images/thumb/3/33/Dynamis_crystal_icon1.png/30px-Dynamis_crystal_icon1.png 1.5x, /mediawiki/images/3/33/Dynamis_crystal_icon1.png 2x"></a><a rel="nofollow" class="external text" href="https://ffxiv.consolegameswiki.com/wiki/Dynamis_Crystal">&nbsp;</a></span>&nbsp;<a href="/wiki/Dynamis_Crystal" title="Dynamis Crystal">Dynamis Crystal</a></td>
+<td>10</td>
+<td>528</td>
+<td>1h</td>
+<td>1</td>
+<td>1,083,800
+</td></tr></tbody><tfoot></tfoot></table>

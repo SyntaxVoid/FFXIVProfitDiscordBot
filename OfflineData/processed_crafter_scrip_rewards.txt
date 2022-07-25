@@ -1,0 +1,710 @@
+[
+  {
+    "name": "Pastry Cupboard",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Fabric Rack",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Potion Rack",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "On High Orchestrion Roll",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Afterglow Orchestrion Roll",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Harmony Orchestrion Roll",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Sweet Cream Milk",
+    "quantity": "1",
+    "cost": "8",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Stone Cheese",
+    "quantity": "1",
+    "cost": "8",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Loaghtan Fillet",
+    "quantity": "1",
+    "cost": "5",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Heavensegg",
+    "quantity": "1",
+    "cost": "8",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Golden Apple",
+    "quantity": "1",
+    "cost": "5",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Heavenly Kukuru Powder",
+    "quantity": "1",
+    "cost": "8",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Bouillon Cube",
+    "quantity": "1",
+    "cost": "4",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oriental Soy Sauce",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oriental Miso Paste",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Solstice Garlic",
+    "quantity": "1",
+    "cost": "5",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Mature Olive Oil",
+    "quantity": "1",
+    "cost": "5",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Carbon Fiber",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Moonbeam Silk",
+    "quantity": "5",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Skyspring Water",
+    "quantity": "3",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Dryad Sap",
+    "quantity": "5",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Odorless Animal Fat",
+    "quantity": "5",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Powdered Merman Horn",
+    "quantity": "1",
+    "cost": "6",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Purified Coke",
+    "quantity": "5",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Raziqcoat",
+    "quantity": "5",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Fieldcraft Demimateria III",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Mastercraft Demimateria",
+    "quantity": "1",
+    "cost": "800",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Wool Top",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Flannel",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "New World Macrame",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Pellitory",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Reunion Cheese",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Koshu Pork",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Dzo Sirloin",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Tea Brick",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Doman Rice",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Secret Recipe Broth",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Crimson Pepper",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Honeydew Honey",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Rooibos Leaves",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Gyr Abanian Alchemic",
+    "quantity": "1",
+    "cost": "100",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Kingcraft Demimateria",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Mozzarella",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Chicken Thigh",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Dzo Tenderloin",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Silkie Egg",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Highland Cabbage",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Robe Lettuce",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Golden Pineapple",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Twilight Apple",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Lingonberry",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Pixieberry",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Kriollo Kukuru Bean",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Cardamom",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Strong Flour",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Platinum Herring",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "King Salmon",
+    "quantity": "1",
+    "cost": "10",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Slithersand",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Sublime Solution",
+    "quantity": "1",
+    "cost": "125",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Iron Sand",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Iron Ore",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Uncut Gemstone",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Quartz",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Petrified Log",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Cotton",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Skin",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Seeds",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Aloe",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Coerthan Iron Ore",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Mythrite Sand",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Silver Ore",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Cedar Log",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Fleece",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Gagana Skin",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Specific Sap",
+    "quantity": "1",
+    "cost": "30",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Hammerhead Shark",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Silvergrace Ore",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Scheelite",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Raw Celestine",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Pine Log",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Rhea",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Gazelle Hide",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Oddly Delicate Mistletoe",
+    "quantity": "1",
+    "cost": "45",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Carpenter's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Blacksmith's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Armorer's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Goldsmith's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Leatherworker's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Weaver's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Alchemist's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Resplendent Culinarian's Material A",
+    "quantity": "1",
+    "cost": "50",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Immutable Solution",
+    "quantity": "1",
+    "cost": "125",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Butterbeef",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Giant Pumpkin",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "White Peach",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Subtle Cinnamon Sticks",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Glass Scallop",
+    "quantity": "1",
+    "cost": "15",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia IV",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia V",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia VI",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia VII",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia VIII",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia IX",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia IV",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia V",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia VI",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia VII",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia VIII",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia IX",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia IV",
+    "quantity": "1",
+    "cost": "25",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia V",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia VI",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia VII",
+    "quantity": "1",
+    "cost": "200",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia VIII",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia IX",
+    "quantity": "1",
+    "cost": "250",
+    "currency": "White Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Competence Materia X",
+    "quantity": "1",
+    "cost": "500",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Cunning Materia X",
+    "quantity": "1",
+    "cost": "500",
+    "currency": "Purple Crafters' Scrip"
+  },
+  {
+    "name": "Craftsman's Command Materia X",
+    "quantity": "1",
+    "cost": "500",
+    "currency": "Purple Crafters' Scrip"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "level": 90,
+    "reward": 144,
+    "currency": "Purple Crafters' Scrips",
+    "items": [
+      "Rarefied Integral Fishing Rod",
+      "Rarefied Chondrite Lapidary Hammer",
+      "Rarefied Chondrite Alembic",
+      "Rarefied Chondrite Needle",
+      "Rarefied Ophiotauroskin Halfgloves",
+      "Rarefied AR-Caean Velvet Work Cap",
+      "Rarefied Ophiotauroskin Magitek Codex",
+      "Rarefied Sykon Bavarois"
+    ]
+  },
+  {
+    "level": 89,
+    "reward": 198,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Integral Armillae",
+      "Rarefied Chondrite Culinary Knife",
+      "Rarefied Chondrite Sollerets",
+      "Rarefied Star Quartz Choker",
+      "Rarefied Ophiotauroskin Top",
+      "Rarefied AR-Caean Velvet Bottoms",
+      "Rarefied Draught",
+      "Rarefied Giant Popoto Pancakes"
+    ]
+  },
+  {
+    "level": 87,
+    "reward": 171,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Ironwood Grinding Wheel",
+      "Rarefied Manganese Cross-pein Hammer",
+      "Rarefied Manganese Armor of the Behemoth King",
+      "Rarefied Manganese Horn of the Last Unicorn",
+      "Rarefied Kumbhiraskin Shoes",
+      "Rarefied Scarlet Moko Wedge Cap",
+      "Rarefied Enchanted Manganese Ink",
+      "Rarefied Giant Haddock Dip"
+    ]
+  },
+  {
+    "level": 85,
+    "reward": 157,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Red Pine Spinning Wheel",
+      "Rarefied Bismuth Sledgehammer",
+      "Rarefied Bismuth Fat Cat Frypan",
+      "Rarefied Phrygian Earring",
+      "Rarefied Saigaskin Gloves",
+      "Rarefied Snow Linen Doublet",
+      "Rarefied Moon Gel",
+      "Rarefied Happiness Juice"
+    ]
+  },
+  {
+    "level": 83,
+    "reward": 142,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Palm Bracelet",
+      "Rarefied High Durium Greatsword",
+      "Rarefied High Durium Kite Shield",
+      "Rarefied Pewter Choker",
+      "Rarefied Luncheon Toadskin Hose",
+      "Rarefied Almasty Serge Gloves",
+      "Rarefied Luncheon Toadskin Grimoire",
+      "Rarefied King Crab Cake"
+    ]
+  },
+  {
+    "level": 81,
+    "reward": 128,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Horse Chestnut Kasa",
+      "Rarefied High Durium Pistol",
+      "Rarefied High Durium Knuckles",
+      "Rarefied High Durium Milpreves",
+      "Rarefied Gajaskin Shoes",
+      "Rarefied Darkhempen Hat",
+      "Rarefied Gajaskin Codex",
+      "Rarefied Archon Loaf"
+    ]
+  },
+  {
+    "level": 80,
+    "reward": 114,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Lignum Vitae Grinding Wheel",
+      "Rarefied Mythril Hatchet",
+      "Rarefied Mythril Alembic",
+      "Rarefied Mythril Ring",
+      "Rarefied Swallowskin Coat",
+      "Rarefied Dwarven Cotton Beret",
+      "Rarefied Dwarven Mythril Grimoire",
+      "Rarefied Lemonade"
+    ]
+  },
+  {
+    "level": 78,
+    "reward": 99,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Sandteak Fauchard",
+      "Rarefied Titanbronze Pickaxe",
+      "Rarefied Titanbronze Tower Shield",
+      "Rarefied Titanbronze Headgear",
+      "Rarefied Zonureskin Fingerless Gloves",
+      "Rarefied Ovim Wool Tunic",
+      "Rarefied Syrup",
+      "Rarefied Espresso con Panna"
+    ]
+  },
+  {
+    "level": 76,
+    "reward": 85,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied White Ash Earrings",
+      "Rarefied Bluespirit Gunblade",
+      "Rarefied Bluespirit Gauntlets",
+      "Rarefied Manasilver Ear Cuffs",
+      "Rarefied Atrociraptorskin Cap",
+      "Rarefied Pixie Cotton Hood",
+      "Rarefied Bluespirit Codex",
+      "Rarefied Popotoes au Gratin"
+    ]
+  },
+  {
+    "level": 74,
+    "reward": 82,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Applewood Staff",
+      "Rarefied Deepgold Culinary Knife",
+      "Rarefied Deepgold Wings",
+      "Rarefied Stonegold Orrery",
+      "Rarefied Gliderskin Thighboots",
+      "Rarefied Iridescent Top",
+      "Rarefied Gliderskin Grimoire",
+      "Rarefied Spaghetti al Nero"
+    ]
+  },
+  {
+    "level": 72,
+    "reward": 68,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied White Oak Partisan",
+      "Rarefied Deepgold Anelace",
+      "Rarefied Deepgold Cuirass",
+      "Rarefied Stonegold Degen",
+      "Rarefied Smilodonskin Trousers",
+      "Rarefied Brightlinen Himation",
+      "Rarefied Alkahest",
+      "Rarefied Grilled Rail"
+    ]
+  },
+  {
+    "level": 70,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Zelkova Spinning Wheel",
+      "Rarefied Molybdenum Pliers",
+      "Rarefied Molybdenum Headgear",
+      "Rarefied Palladium Needle",
+      "Rarefied Gazelleskin Armguards",
+      "Rarefied Twinsilk Apron",
+      "Rarefied Gazelleskin Codex",
+      "Rarefied Chirashi-zushi"
+    ]
+  },
+  {
+    "level": 68,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Persimmon Bracelets",
+      "Rarefied Doman Steel Patas",
+      "Rarefied Doman Steel Tabard",
+      "Rarefied Durium Rod",
+      "Rarefied Marid Leather Corset",
+      "Rarefied Serge Hose",
+      "Rarefied Growth Formula",
+      "Rarefied Persimmon Pudding"
+    ]
+  },
+  {
+    "level": 66,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Pine Cane",
+      "Rarefied Doman Iron Uchigatana",
+      "Rarefied Doman Iron Greaves",
+      "Rarefied Durium Chaplets",
+      "Rarefied Tigerskin Tricorne",
+      "Rarefied Kudzu Hat",
+      "Rarefied Tigerskin Grimoire",
+      "Rarefied Tempura Platter"
+    ]
+  },
+  {
+    "level": 64,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Larch Necklace",
+      "Rarefied High Steel Claw Hammer",
+      "Rarefied High Steel Plate Belt",
+      "Rarefied Koppranickel Necklace",
+      "Rarefied Gyuki Leather Jacket",
+      "Rarefied Ruby Cotton Gilet",
+      "Rarefied Reisui",
+      "Rarefied Shorlog"
+    ]
+  },
+  {
+    "level": 62,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Beech Composite Bow",
+      "Rarefied High Steel Guillotine",
+      "Rarefied High Steel Thermal Alembic",
+      "Rarefied Koppranickel Planisphere",
+      "Rarefied Gaganaskin Shoes",
+      "Rarefied Bloodhempen Skirt",
+      "Rarefied Koppranickel Index",
+      "Rarefied Baklava"
+    ]
+  },
+  {
+    "level": 60,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Birch Signum",
+      "Rarefied Adamantite Bill",
+      "Rarefied Adamantite Scutum",
+      "Rarefied Aurum Regis Earrings",
+      "Rarefied Serpentskin Hat",
+      "Rarefied Chimerical Felt Cyclas",
+      "Rarefied Book of Aurum Regis",
+      "Rarefied Marron Glace"
+    ]
+  },
+  {
+    "level": 58,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Hallowed Chestnut Ring",
+      "Rarefied Titanium Mortar",
+      "Rarefied Titanium Vambraces",
+      "Rarefied Hardsilver Pole",
+      "Rarefied Dragonskin Ring",
+      "Rarefied Hallowed Ramie Doublet",
+      "Rarefied Max-Potion",
+      "Rarefied Peperoncino"
+    ]
+  },
+  {
+    "level": 56,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Dark Chestnut Rod",
+      "Rarefied Titanium Creasing Knife",
+      "Rarefied Titanium Frypan",
+      "Rarefied Hardsilver Monocle",
+      "Rarefied Dhalmelskin Coat",
+      "Rarefied Ramie Turban",
+      "Rarefied Dhalmelskin Codex",
+      "Rarefied Royal Eggs"
+    ]
+  },
+  {
+    "level": 54,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Holy Cedar Spinning Wheel",
+      "Rarefied Mythrite Halfheart Saw",
+      "Rarefied Mythrite Bladed Lantern Shield",
+      "Rarefied Mythrite Needle",
+      "Rarefied Wyvernskin Mask",
+      "Rarefied Holy Rainbow Hat",
+      "Rarefied Dissolvent",
+      "Rarefied Sauteed Porcini"
+    ]
+  },
+  {
+    "level": 52,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Cedar Fishing Rod",
+      "Rarefied Mythrite Pugiones",
+      "Rarefied Mythrite Hauberk",
+      "Rarefied Mythrite Bangle",
+      "Rarefied Archaeoskin Cloche",
+      "Rarefied Rainbow Ribbon",
+      "Rarefied Archaeoskin Codex",
+      "Rarefied Sohm Al Tart"
+    ]
+  },
+  {
+    "level": 50,
+    "reward": 54,
+    "currency": "White Crafters' Scrips",
+    "items": [
+      "Rarefied Cedar Longbow",
+      "Rarefied Mythrite Katzbalger",
+      "Rarefied Mythrite Sallet",
+      "Rarefied Mythrite Goggles",
+      "Rarefied Archaeoskin Belt",
+      "Rarefied Rainbow Bolero",
+      "Rarefied Archaeoskin Grimoire",
+      "Rarefied Dhalmel Gratin"
+    ]
+  }
+]

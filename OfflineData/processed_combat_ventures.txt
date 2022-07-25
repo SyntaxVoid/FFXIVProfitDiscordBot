@@ -1,0 +1,908 @@
+[
+  {
+    "name": "Animal Skin",
+    "amount": "15",
+    "level": "1",
+    "duration": "40"
+  },
+  {
+    "name": "Animal Sinew",
+    "amount": "15",
+    "level": "2",
+    "duration": "40"
+  },
+  {
+    "name": "Shriekshroom",
+    "amount": "15",
+    "level": "3",
+    "duration": "40"
+  },
+  {
+    "name": "Honey",
+    "amount": "15",
+    "level": "4",
+    "duration": "40"
+  },
+  {
+    "name": "Ram Horn",
+    "amount": "15",
+    "level": "5",
+    "duration": "40"
+  },
+  {
+    "name": "Beastkin Blood",
+    "amount": "15",
+    "level": "6",
+    "duration": "40"
+  },
+  {
+    "name": "Marmot Meat",
+    "amount": "15",
+    "level": "7",
+    "duration": "40"
+  },
+  {
+    "name": "Animal Hide",
+    "amount": "15",
+    "level": "8",
+    "duration": "40"
+  },
+  {
+    "name": "Mutton Loin",
+    "amount": "15",
+    "level": "9",
+    "duration": "40"
+  },
+  {
+    "name": "Beast Sinew",
+    "amount": "15",
+    "level": "10",
+    "duration": "40"
+  },
+  {
+    "name": "Bat Fang",
+    "amount": "15",
+    "level": "10",
+    "duration": "40"
+  },
+  {
+    "name": "Red Landtrap Leaf",
+    "amount": "15",
+    "level": "10",
+    "duration": "40"
+  },
+  {
+    "name": "Dodo Tenderloin",
+    "amount": "15",
+    "level": "11",
+    "duration": "40"
+  },
+  {
+    "name": "Jellyfish Cnida",
+    "amount": "15",
+    "level": "11",
+    "duration": "40"
+  },
+  {
+    "name": "Mole Meat",
+    "amount": "15",
+    "level": "12",
+    "duration": "40"
+  },
+  {
+    "name": "Puk Wing",
+    "amount": "15",
+    "level": "12",
+    "duration": "40"
+  },
+  {
+    "name": "Viscous Secretions",
+    "amount": "15",
+    "level": "13",
+    "duration": "40"
+  },
+  {
+    "name": "Dodo Egg",
+    "amount": "15",
+    "level": "14",
+    "duration": "40"
+  },
+  {
+    "name": "Bat Wing",
+    "amount": "15",
+    "level": "14",
+    "duration": "40"
+  },
+  {
+    "name": "Antelope Horn",
+    "amount": "15",
+    "level": "15",
+    "duration": "40"
+  },
+  {
+    "name": "Goobbue Fang",
+    "amount": "15",
+    "level": "15",
+    "duration": "40"
+  },
+  {
+    "name": "Yellow Yarzon Leg",
+    "amount": "15",
+    "level": "15",
+    "duration": "40"
+  },
+  {
+    "name": "Imp Wing",
+    "amount": "15",
+    "level": "16",
+    "duration": "40"
+  },
+  {
+    "name": "Jellyfish Umbrella",
+    "amount": "15",
+    "level": "17",
+    "duration": "40"
+  },
+  {
+    "name": "Aldgoat Skin",
+    "amount": "15",
+    "level": "18",
+    "duration": "40"
+  },
+  {
+    "name": "Dodo Feather",
+    "amount": "15",
+    "level": "19",
+    "duration": "40"
+  },
+  {
+    "name": "Green Megalocrab Shell",
+    "amount": "15",
+    "level": "20",
+    "duration": "40"
+  },
+  {
+    "name": "Antelope Shank",
+    "amount": "15",
+    "level": "21",
+    "duration": "40"
+  },
+  {
+    "name": "Megalocrab Leg",
+    "amount": "15",
+    "level": "22",
+    "duration": "40"
+  },
+  {
+    "name": "Acidic Secretions",
+    "amount": "15",
+    "level": "23",
+    "duration": "40"
+  },
+  {
+    "name": "Diremite Web",
+    "amount": "15",
+    "level": "24",
+    "duration": "40"
+  },
+  {
+    "name": "Aldgoat Chuck",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Diremite Sinew",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Aldgoat Horn",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Wolf Fang",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Treant Sap",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Scalekin Blood",
+    "amount": "15",
+    "level": "25",
+    "duration": "40"
+  },
+  {
+    "name": "Gigantoad Skin",
+    "amount": "15",
+    "level": "26",
+    "duration": "40"
+  },
+  {
+    "name": "Bomb Ash",
+    "amount": "15",
+    "level": "26",
+    "duration": "40"
+  },
+  {
+    "name": "Puk Egg",
+    "amount": "15",
+    "level": "27",
+    "duration": "40"
+  },
+  {
+    "name": "Night Milk",
+    "amount": "15",
+    "level": "28",
+    "duration": "40"
+  },
+  {
+    "name": "Orobon Liver",
+    "amount": "15",
+    "level": "28",
+    "duration": "40"
+  },
+  {
+    "name": "Blue Yarzon Leg",
+    "amount": "15",
+    "level": "29",
+    "duration": "40"
+  },
+  {
+    "name": "Cactuar Needle",
+    "amount": "15",
+    "level": "29",
+    "duration": "40"
+  },
+  {
+    "name": "Sandworm Fang",
+    "amount": "15",
+    "level": "30",
+    "duration": "40"
+  },
+  {
+    "name": "Blue Landtrap Leaf",
+    "amount": "15",
+    "level": "30",
+    "duration": "40"
+  },
+  {
+    "name": "Morbol Vine",
+    "amount": "15",
+    "level": "30",
+    "duration": "40"
+  },
+  {
+    "name": "Formic Acid",
+    "amount": "15",
+    "level": "31",
+    "duration": "40"
+  },
+  {
+    "name": "Raptor Shank",
+    "amount": "15",
+    "level": "32",
+    "duration": "40"
+  },
+  {
+    "name": "Hippogryph Sinew",
+    "amount": "15",
+    "level": "32",
+    "duration": "40"
+  },
+  {
+    "name": "Boar Hide",
+    "amount": "15",
+    "level": "33",
+    "duration": "40"
+  },
+  {
+    "name": "Peiste Skin",
+    "amount": "15",
+    "level": "34",
+    "duration": "40"
+  },
+  {
+    "name": "Fleece",
+    "amount": "15",
+    "level": "35",
+    "duration": "40"
+  },
+  {
+    "name": "Spoken Blood",
+    "amount": "15",
+    "level": "36",
+    "duration": "40"
+  },
+  {
+    "name": "Karakul Skin",
+    "amount": "15",
+    "level": "37",
+    "duration": "40"
+  },
+  {
+    "name": "Grenade Ash",
+    "amount": "15",
+    "level": "38",
+    "duration": "40"
+  },
+  {
+    "name": "Raptor Sinew",
+    "amount": "15",
+    "level": "39",
+    "duration": "40"
+  },
+  {
+    "name": "Ochu Vine",
+    "amount": "15",
+    "level": "40",
+    "duration": "40"
+  },
+  {
+    "name": "Pudding Flesh",
+    "amount": "15",
+    "level": "41",
+    "duration": "40"
+  },
+  {
+    "name": "Basilisk Egg",
+    "amount": "15",
+    "level": "42",
+    "duration": "40"
+  },
+  {
+    "name": "Buffalo Sirloin",
+    "amount": "15",
+    "level": "43",
+    "duration": "40"
+  },
+  {
+    "name": "Apkallu Egg",
+    "amount": "15",
+    "level": "44",
+    "duration": "40"
+  },
+  {
+    "name": "Apkallu Down",
+    "amount": "15",
+    "level": "45",
+    "duration": "40"
+  },
+  {
+    "name": "Ahriman Wing",
+    "amount": "15",
+    "level": "46",
+    "duration": "40"
+  },
+  {
+    "name": "Eft Tail",
+    "amount": "15",
+    "level": "47",
+    "duration": "40"
+  },
+  {
+    "name": "Raptor Skin",
+    "amount": "15",
+    "level": "48",
+    "duration": "40"
+  },
+  {
+    "name": "Snurble Tufts",
+    "amount": "15",
+    "level": "49",
+    "duration": "40"
+  },
+  {
+    "name": "Ogre Horn",
+    "amount": "15",
+    "level": "49",
+    "duration": "40"
+  },
+  {
+    "name": "Yak Milk",
+    "amount": "15",
+    "level": "51",
+    "duration": "40"
+  },
+  {
+    "name": "Gastornis Egg",
+    "amount": "15",
+    "level": "51",
+    "duration": "40"
+  },
+  {
+    "name": "Archaeornis Skin",
+    "amount": "15",
+    "level": "51",
+    "duration": "40"
+  },
+  {
+    "name": "Icetrap Leaf",
+    "amount": "15",
+    "level": "51",
+    "duration": "40"
+  },
+  {
+    "name": "Gelato Flesh",
+    "amount": "15",
+    "level": "51",
+    "duration": "40"
+  },
+  {
+    "name": "Loaghtan Chump",
+    "amount": "15",
+    "level": "52",
+    "duration": "40"
+  },
+  {
+    "name": "Yeti Fang",
+    "amount": "15",
+    "level": "52",
+    "duration": "40"
+  },
+  {
+    "name": "Deepeye Tears",
+    "amount": "15",
+    "level": "52",
+    "duration": "40"
+  },
+  {
+    "name": "Bear Fat",
+    "amount": "15",
+    "level": "52",
+    "duration": "40"
+  },
+  {
+    "name": "Wyvern Skin",
+    "amount": "15",
+    "level": "53",
+    "duration": "40"
+  },
+  {
+    "name": "Wyvern Wing",
+    "amount": "15",
+    "level": "53",
+    "duration": "40"
+  },
+  {
+    "name": "Biast Scales",
+    "amount": "15",
+    "level": "54",
+    "duration": "40"
+  },
+  {
+    "name": "Dhalmel Meat",
+    "amount": "15",
+    "level": "55",
+    "duration": "40"
+  },
+  {
+    "name": "Dhalmel Hide",
+    "amount": "15",
+    "level": "55",
+    "duration": "40"
+  },
+  {
+    "name": "Drake Scales",
+    "amount": "15",
+    "level": "56",
+    "duration": "40"
+  },
+  {
+    "name": "Dhalmel Saliva",
+    "amount": "15",
+    "level": "56",
+    "duration": "40"
+  },
+  {
+    "name": "Okeanis Egg",
+    "amount": "15",
+    "level": "57",
+    "duration": "40"
+  },
+  {
+    "name": "Dragon Skin",
+    "amount": "15",
+    "level": "57",
+    "duration": "40"
+  },
+  {
+    "name": "Dragon Fang",
+    "amount": "15",
+    "level": "57",
+    "duration": "40"
+  },
+  {
+    "name": "Okeanis Tail",
+    "amount": "15",
+    "level": "58",
+    "duration": "40"
+  },
+  {
+    "name": "Cockatrice Thigh",
+    "amount": "15",
+    "level": "58",
+    "duration": "40"
+  },
+  {
+    "name": "Crawler Cocoon",
+    "amount": "15",
+    "level": "58",
+    "duration": "40"
+  },
+  {
+    "name": "Dragon Scale",
+    "amount": "15",
+    "level": "58",
+    "duration": "40"
+  },
+  {
+    "name": "Dragon Blood",
+    "amount": "15",
+    "level": "58",
+    "duration": "40"
+  },
+  {
+    "name": "Amphiptere Skin",
+    "amount": "15",
+    "level": "59",
+    "duration": "40"
+  },
+  {
+    "name": "Griffin Hide",
+    "amount": "15",
+    "level": "59",
+    "duration": "40"
+  },
+  {
+    "name": "Griffin Talon",
+    "amount": "15",
+    "level": "59",
+    "duration": "40"
+  },
+  {
+    "name": "Chimera Mane",
+    "amount": "15",
+    "level": "60",
+    "duration": "40"
+  },
+  {
+    "name": "Gagana Egg",
+    "amount": "15",
+    "level": "61",
+    "duration": "40"
+  },
+  {
+    "name": "Muud Suud Horn",
+    "amount": "15",
+    "level": "61",
+    "duration": "40"
+  },
+  {
+    "name": "Gagana Skin",
+    "amount": "15",
+    "level": "62",
+    "duration": "40"
+  },
+  {
+    "name": "Rhino Beetle Carapace",
+    "amount": "15",
+    "level": "62",
+    "duration": "40"
+  },
+  {
+    "name": "Moth Scales",
+    "amount": "15",
+    "level": "62",
+    "duration": "40"
+  },
+  {
+    "name": "Hornbill Tenderloin",
+    "amount": "15",
+    "level": "63",
+    "duration": "40"
+  },
+  {
+    "name": "Bombfish Spine",
+    "amount": "15",
+    "level": "63",
+    "duration": "40"
+  },
+  {
+    "name": "Gyuki Hide",
+    "amount": "15",
+    "level": "64",
+    "duration": "40"
+  },
+  {
+    "name": "Dzo Horn",
+    "amount": "15",
+    "level": "65",
+    "duration": "40"
+  },
+  {
+    "name": "Steppe Milk",
+    "amount": "15",
+    "level": "66",
+    "duration": "40"
+  },
+  {
+    "name": "Dzo Chuck",
+    "amount": "15",
+    "level": "66",
+    "duration": "40"
+  },
+  {
+    "name": "Tiger Skin",
+    "amount": "15",
+    "level": "66",
+    "duration": "40"
+  },
+  {
+    "name": "Halgai Mane",
+    "amount": "15",
+    "level": "67",
+    "duration": "40"
+  },
+  {
+    "name": "Gazelle Horn",
+    "amount": "15",
+    "level": "67",
+    "duration": "40"
+  },
+  {
+    "name": "Manzasiri Hair",
+    "amount": "15",
+    "level": "68",
+    "duration": "40"
+  },
+  {
+    "name": "Marid Hide",
+    "amount": "15",
+    "level": "68",
+    "duration": "40"
+  },
+  {
+    "name": "Jhammel Haunch",
+    "amount": "15",
+    "level": "69",
+    "duration": "40"
+  },
+  {
+    "name": "Twincoon",
+    "amount": "15",
+    "level": "69",
+    "duration": "40"
+  },
+  {
+    "name": "Gazelle Hide",
+    "amount": "15",
+    "level": "70",
+    "duration": "40"
+  },
+  {
+    "name": "True Griffin Hide",
+    "amount": "15",
+    "level": "70",
+    "duration": "40"
+  },
+  {
+    "name": "Island Wolf Fang",
+    "amount": "15",
+    "level": "70",
+    "duration": "40"
+  },
+  {
+    "name": "Rail Tenderloin",
+    "amount": "15",
+    "level": "71",
+    "duration": "50"
+  },
+  {
+    "name": "Smilodon Skin",
+    "amount": "15",
+    "level": "71",
+    "duration": "50"
+  },
+  {
+    "name": "Hoptrap Leaf",
+    "amount": "15",
+    "level": "71",
+    "duration": "50"
+  },
+  {
+    "name": "Silkmoth Scales",
+    "amount": "15",
+    "level": "71",
+    "duration": "50"
+  },
+  {
+    "name": "Green Glider Skin",
+    "amount": "15",
+    "level": "72",
+    "duration": "50"
+  },
+  {
+    "name": "Lorikeet Egg",
+    "amount": "15",
+    "level": "73",
+    "duration": "50"
+  },
+  {
+    "name": "Lorikeet Down",
+    "amount": "15",
+    "level": "73",
+    "duration": "50"
+  },
+  {
+    "name": "Atrociraptor Skin",
+    "amount": "15",
+    "level": "74",
+    "duration": "50"
+  },
+  {
+    "name": "Vampire Vine Sap",
+    "amount": "15",
+    "level": "75",
+    "duration": "50"
+  },
+  {
+    "name": "Vampire Cup Vine",
+    "amount": "15",
+    "level": "75",
+    "duration": "50"
+  },
+  {
+    "name": "Ovim Meat",
+    "amount": "15",
+    "level": "76",
+    "duration": "50"
+  },
+  {
+    "name": "Ovim Fleece",
+    "amount": "15",
+    "level": "77",
+    "duration": "50"
+  },
+  {
+    "name": "Zonure Skin",
+    "amount": "15",
+    "level": "77",
+    "duration": "50"
+  },
+  {
+    "name": "Sea Swallow Skin",
+    "amount": "15",
+    "level": "78",
+    "duration": "50"
+  },
+  {
+    "name": "Cubus Flesh",
+    "amount": "15",
+    "level": "79",
+    "duration": "50"
+  },
+  {
+    "name": "Hydrozoan Umbrella",
+    "amount": "15",
+    "level": "79",
+    "duration": "50"
+  },
+  {
+    "name": "Hamsa Tenderloin",
+    "amount": "15",
+    "level": "80",
+    "duration": "50"
+  },
+  {
+    "name": "Amra",
+    "amount": "15",
+    "level": "80",
+    "duration": "50"
+  },
+  {
+    "name": "Gaja Hide",
+    "amount": "15",
+    "level": "80",
+    "duration": "50"
+  },
+  {
+    "name": "Yakow Chuck",
+    "amount": "15",
+    "level": "81",
+    "duration": "60"
+  },
+  {
+    "name": "Ovibos Milk",
+    "amount": "15",
+    "level": "82",
+    "duration": "60"
+  },
+  {
+    "name": "Almasty Fur",
+    "amount": "15",
+    "level": "82",
+    "duration": "60"
+  },
+  {
+    "name": "Luncheon Toad Skin",
+    "amount": "15",
+    "level": "82",
+    "duration": "60"
+  },
+  {
+    "name": "Lunatender Blossom",
+    "amount": "15",
+    "level": "83",
+    "duration": "60"
+  },
+  {
+    "name": "Saiga Hide",
+    "amount": "15",
+    "level": "84",
+    "duration": "60"
+  },
+  {
+    "name": "Dynamite Ash",
+    "amount": "15",
+    "level": "84",
+    "duration": "60"
+  },
+  {
+    "name": "Mousse Flesh",
+    "amount": "15",
+    "level": "84",
+    "duration": "60"
+  },
+  {
+    "name": "Bird of Elpis Breast",
+    "amount": "12",
+    "level": "86",
+    "duration": "60"
+  },
+  {
+    "name": "Egg of Elpis",
+    "amount": "12",
+    "level": "86",
+    "duration": "60"
+  },
+  {
+    "name": "Kumbhira Skin",
+    "amount": "12",
+    "level": "86",
+    "duration": "60"
+  },
+  {
+    "name": "Petalouda Scales",
+    "amount": "12",
+    "level": "86",
+    "duration": "60"
+  },
+  {
+    "name": "Ophiotauros Hide",
+    "amount": "10",
+    "level": "88",
+    "duration": "60"
+  },
+  {
+    "name": "Berkanan Sap",
+    "amount": "10",
+    "level": "88",
+    "duration": "60"
+  },
+  {
+    "name": "Dynamis Crystal",
+    "amount": "10",
+    "level": "89",
+    "duration": "60"
+  }
+]
